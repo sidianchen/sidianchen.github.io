@@ -75,7 +75,7 @@ I am broadly interested in the fundamental physics of fluid flow and transport i
 - The XXIV International Conference on Computational Methods in Water Resources, 2022 (Oral)
 - European Geosciences Union (EGU) General Assembly, 2022 (Oral)
 - International Society for Porous Media (InterPore) Annual Meeting, 2022 (Poster)
-- PFAS-$\Sigma$-IT International PFAS Summit, 2022 (Poster)
+- PFAS-$$\Sigma$$-IT International PFAS Summit, 2022 (Poster)
 - El Día del Agua y la Atmósfera, 2022 (Oral, *Outstanding Oral Presentation Award*)
 - SFB 1313 Status Seminar, 2022 (Poster)
 - American Geophysical Union (AGU) Fall Meeting, 2021 (One Oral, one Poster, and one Invited eLighting Talk)
