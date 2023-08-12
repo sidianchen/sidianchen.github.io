@@ -33,7 +33,7 @@ I am broadly interested in the fundamental physics of fluid flow and transport i
 
 ## PUBLICATIONS
 ### *Journal Paper (Published)*
-- **Chen, S.**, Guo, B. ``Pore-scale modeling of PFAS transport in water-unsaturated porous media: Air--water interfacial adsorption and mass-transfer processes in thin water films''. *Water Resources Research*	
+- **Chen, S.**, Guo, B. ``Pore-scale modeling of PFAS transport in water-unsaturated porous media: Air-water interfacial adsorption and mass-transfer processes in thin water films''. *Water Resources Research*	
 - Qin, C., Wang, X., Hefny, M., Zhao, J., **Chen, S.**, Guo, B. (2022) ``Wetting dynamics of spontaneous imbibition in porous media: from pore scale to Darcy scale'' *Geophysical Research Letters*. e2021GL097269.	
 - **Chen, S.**, Jiang, J., Guo, B. (2021) ``A pore-network-based upscaling framework for the nanoconfined phase behavior in shale rocks'' *Chemical Engineering Journal*. 129210.		
 - **Chen, S.**, Qin, C., Guo, B. (2020) “Fully implicit dynamic pore‐network modeling of two‐phase flow and phase change in porous media'' *Water Resources Research*. 56(11): e2020WR028510.	
@@ -43,7 +43,7 @@ I am broadly interested in the fundamental physics of fluid flow and transport i
 - Song, F., Qin, H., **Chen, S.**, Zhao, Z. (2019). ``Water source apportionment of pollutions in Shenzhen Bay
 			basin'' *Acta Scientiarum Naturalium Universitatis Pekinensis*, 55(2): 317-328. (Written in Chinese)	
 - Zheng, M., **Chen, S.**, Qin, H., Leng, K., Zhang, L. (2017). ``Simulation study on the effect of urban
-			rainfall runoff pollution on eutrophication in Deep Bay, Shenzhen, China'' *China Water \& Wastewater*, 9:
+			rainfall runoff pollution on eutrophication in Deep Bay, Shenzhen, China'' *China Water & Wastewater*, 9:
 			133-138. (Written in Chinese)	
 - Liu, J., **Chen, S.**, Jiang, T. (2017). ``Research on marine eco-environmental carrying capacity—a case
 			study in eastern coast ocean of Shenzhen'' *Marine Environmental Science*, 36(4). (Written in Chinese)
@@ -64,7 +64,7 @@ I am broadly interested in the fundamental physics of fluid flow and transport i
 
 ## INVITED LECTURES
 - Guest Lecture, *Fourier Stability Analysis for Finite Differentiation Approximation*, University of Arizona, 2023
-- Guest Lecture, *Finite Differentiation Approximation for Solving Second-order Ordinary Differentiation Equations \& Modified Equation Analysis*, University of Arizona, 2023
+- Guest Lecture, *Finite Differentiation Approximation for Solving Second-order Ordinary Differentiation Equations & Modified Equation Analysis*, University of Arizona, 2023
 - Guest Lecture, *Inverse Modeling in Vadose Zone Hydrology*, University of Arizona, 2022
 - Invited Talk, *SFB1313 Pretty Porous Science Lecture*, University of Stuttgart, 2022
 
