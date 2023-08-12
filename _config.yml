@@ -18,7 +18,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "cv.md", title: "CV"}
   - {file: "research.md", title: "Research"}
   - {file: "pub.md", title: "Publications"}
-  - {file: "news.md", title: "News"} 
+  - {file: "news.md", title: "NewsTest"} 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sidianchen@email.arizona"}
