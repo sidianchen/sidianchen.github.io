@@ -95,8 +95,11 @@ Department of Hydrology and Atmospheric Sciences, University of Arizona
 
 # INVITED LECTURES
 > Guest Lecture, *Fourier Stability Analysis for Finite Differentiation Approximation*, University of Arizona, 2023
+
 > Guest Lecture, *Finite Differentiation Approximation for Solving Second-order Ordinary Differentiation Equations \& Modified Equation Analysis*, University of Arizona, 2023
+
 > Guest Lecture, *Inverse Modeling in Vadose Zone Hydrology*, University of Arizona, 2022
+
 > Invited Talk, *SFB1313 Pretty Porous Science Lecture*, University of Stuttgart, 2022
 
 # CONFERENCE PRESENTATIONS
