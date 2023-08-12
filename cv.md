@@ -3,17 +3,15 @@ layout: page
 title: ""
 ---
 
-
-# Sidian Chen
-
-### Department of Hydrology and Atmospheric Sciences, University of Arizona 
-### Phone: (1)520-369-9240 Email: sidianchen@arizona.edu
-
+<h1 align="center" > Sidian Chen </h1>
+<p align="center" > Department of Hydrology and Atmospheric Sciences, University of Arizona </p>
+<p align="center" > Email: sidianchen@arizona.edu </p>
+<p align="center" > Phone: (1)520-369-9240 </p>
 
 ## EDUCATION
-- Ph.D., Hydrology (major) and Applied Math (minor), University of Arizona, 2018 -- 2023
-- M.S., Environmental Science, Peking University, 2015 -- 2018
-- B.S., Hydraulic and Hydropower Engineering, Tsinghua University, 2011 -- 2015
+- Ph.D., Hydrology (major) and Applied Math (minor), University of Arizona, 2018 - 2023
+- M.S., Environmental Science, Peking University, 2015 - 2018
+- B.S., Hydraulic and Hydropower Engineering, Tsinghua University, 2011 - 2015
 
 ## RESEARCH INTEREST
 I am broadly interested in the fundamental physics of fluid flow and transport in environmental and energy systems in Earth's subsurface. My current research focuses on micro-scale (i.e., pore-scale) modeling of multiphase fluid flow, transport, and thermodynamic phase change behaviors in geological porous media. The specific application of my research is to study the transport of Per- and Polyfluoroalkyl Substances (PFAS) in the vadose zone, the nonisothermal evaporation processes at the land surface, and the production of gas/oil from shale formations.
@@ -118,7 +116,7 @@ I am broadly interested in the fundamental physics of fluid flow and transport i
 - ACS Omega
 
 ### Grant Reviewer
-- Travel and Research Grants, Graduate and Professional Student Council, University of Arizona, 2020 -- 2022
+- Travel and Research Grants, Graduate and Professional Student Council, University of Arizona, 2020 - 2022
 
 ## PROFESSIONAL SOCIALITY
 - American Geophysical Union (AGU)
