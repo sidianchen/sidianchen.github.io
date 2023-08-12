@@ -4,9 +4,9 @@ title: ""
 ---
 
 <center>
-  ## Sidian Chen
-		Department of Hydrology and Atmospheric Sciences, University of Arizona 
-	  (1)520-369-9240 $|$ \href{mailto:sidianchen@arizona.edu}
+Sidian Chen
+Department of Hydrology and Atmospheric Sciences, University of Arizona 
+(1)520-369-9240 $|$ \href{mailto:sidianchen@arizona.edu}
 <center>
 
 # EDUCATION
@@ -21,19 +21,19 @@ title: ""
 > I am broadly interested in the fundamental physics of fluid flow and transport in environmental and energy systems in Earth's subsurface. My current research focuses on micro-scale (i.e., pore-scale) modeling of multiphase fluid flow, transport, and thermodynamic phase change behaviors in geological porous media. The specific application of my research is to study the transport of Per- and Polyfluoroalkyl Substances (PFAS) in the vadose zone, the nonisothermal evaporation processes at the land surface, and the production of gas/oil from shale formations.
 	
 # HONORS & AWARDS
-- Montgomery Prize for Outstanding Oral Presentation, El Día del Agua y la Atmósfera, 2023
-- John W. Harshbarger Memorial Scholarship, University of Arizona, 2022
-- *Outstanding Graduate Student in Research, College of Science, University of Arizona, 2022*
-- Matrix New World Engineering Best Oral Award, El Día del Agua y la Atmósfera, 2022
-- John W. Harshbarger Memorial Scholarship, University of Arizona, 2021
-- Galileo Circle Scholarship, College of Science, University of Arizona, 2021
-- Outstanding Oral Award, EarthWeek 2021 Lightning Talk Competition, University of Arizona, 2021
-- Arizona Hydrological Society-Tucson Best Oral Award, El Día del Agua y la Atmósfera, 2021
-- *Outstanding Student Presentation Award, American Geophysical Union (AGU) Fall Meeting, 2020*
-- John W. Harshbarger Memorial Scholarship, University of Arizona, 2020
-- Geosystems Analysis, Inc. Best Virtual Poster Award, El Día del Agua y la Atmósfera, 2020
-- Travel Grants, Graduate and Professional Student Council, University of Arizona, 2019
-- Shlomo and Yael Neuman Graduate Scholarship, University of Arizona, 2019
+> Montgomery Prize for Outstanding Oral Presentation, El Día del Agua y la Atmósfera, 2023
+> John W. Harshbarger Memorial Scholarship, University of Arizona, 2022
+> *Outstanding Graduate Student in Research, College of Science, University of Arizona, 2022*
+> Matrix New World Engineering Best Oral Award, El Día del Agua y la Atmósfera, 2022
+> John W. Harshbarger Memorial Scholarship, University of Arizona, 2021
+> Galileo Circle Scholarship, College of Science, University of Arizona, 2021
+> Outstanding Oral Award, EarthWeek 2021 Lightning Talk Competition, University of Arizona, 2021
+> Arizona Hydrological Society-Tucson Best Oral Award, El Día del Agua y la Atmósfera, 2021
+> *Outstanding Student Presentation Award, American Geophysical Union (AGU) Fall Meeting, 2020*
+> John W. Harshbarger Memorial Scholarship, University of Arizona, 2020
+> Geosystems Analysis, Inc. Best Virtual Poster Award, El Día del Agua y la Atmósfera, 2020
+> Travel Grants, Graduate and Professional Student Council, University of Arizona, 2019
+> Shlomo and Yael Neuman Graduate Scholarship, University of Arizona, 2019
 
 # PUBLICATIONS
 ## *Journal Paper (Published)*
@@ -61,8 +61,8 @@ title: ""
 > Liu, J., **Chen, S.**, Jiang, T. (2017). ``Research on marine eco-environmental carrying capacity—a case
 			study in eastern coast ocean of Shenzhen'' *Marine Environmental Science*, 36(4). (Written in Chinese)
     
-% ## *Journal Paper (In Review)*
-% > 
+<!-- ## *Journal Paper (In Review)* -->
+<!-- > **Chen, S.**, ... -->
 
 ## *Journal Paper (In Preparation)*
 > **Chen, S.**, Jiang, J., Guo, B. ``Phase change controls two-phase displacement patterns in porous media''.
