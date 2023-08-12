@@ -5,22 +5,19 @@ title: ""
 
 
 # Sidian Chen
-# Department of Hydrology and Atmospheric Sciences, University of Arizona 
-# Phone: (1)520-369-9240 Email: sidianchen@arizona.edu
+### Department of Hydrology and Atmospheric Sciences, University of Arizona 
+### Phone: (1)520-369-9240 Email: sidianchen@arizona.edu
 
 
-# EDUCATION
-- University of Arizona
-	PhD student in Hydrology (major) and Applied Math (minor), overall GPA: 4.0/4.0 2018 -- 2023
-- Peking University
-  M.S. in Environmental Science 2015 -- 2018
-- Tsinghua University
-  B.S. in Hydraulic and Hydropower Engineering 2011 -- 2015
+## EDUCATION
+- Ph.D., Hydrology (major) and Applied Math (minor), University of Arizona, 2018 -- 2023
+- M.S., Environmental Science, Peking University, 2015 -- 2018
+- B.S., Hydraulic and Hydropower Engineering, Tsinghua University, 2011 -- 2015
 
-# RESEARCH INTEREST
+## RESEARCH INTEREST
 > I am broadly interested in the fundamental physics of fluid flow and transport in environmental and energy systems in Earth's subsurface. My current research focuses on micro-scale (i.e., pore-scale) modeling of multiphase fluid flow, transport, and thermodynamic phase change behaviors in geological porous media. The specific application of my research is to study the transport of Per- and Polyfluoroalkyl Substances (PFAS) in the vadose zone, the nonisothermal evaporation processes at the land surface, and the production of gas/oil from shale formations.
 	
-# HONORS & AWARDS
+## HONORS & AWARDS
 
 > Montgomery Prize for Outstanding Oral Presentation, El Día del Agua y la Atmósfera, 2023
 
@@ -48,8 +45,8 @@ title: ""
 
 > Shlomo and Yael Neuman Graduate Scholarship, University of Arizona, 2019
 
-# PUBLICATIONS
-## *Journal Paper (Published)*
+## PUBLICATIONS
+### *Journal Paper (Published)*
 > **Chen, S.**, Guo, B. ``Pore-scale modeling of PFAS transport in water-unsaturated porous media: Air--water interfacial adsorption and mass-transfer processes in thin water films''. *Water Resources Research*
 		
 > Qin, C., Wang, X., Hefny, M., Zhao, J., **Chen, S.**, Guo, B. (2022) ``Wetting dynamics of spontaneous imbibition in porous media: from pore scale to Darcy scale'' *Geophysical Research Letters*. e2021GL097269.
@@ -77,7 +74,7 @@ title: ""
 <!-- ## *Journal Paper (In Review)* -->
 <!-- > **Chen, S.**, ... -->
 
-## *Journal Paper (In Preparation)*
+### *Journal Paper (In Preparation)*
 > **Chen, S.**, Jiang, J., Guo, B. ``Phase change controls two-phase displacement patterns in porous media''.
     
 > **Chen, S.**, Jiang, J., Guo, B. ``Dynamic pore-network modeling of compositional two-phase flow and phase change behavior in nanoporous media''.
@@ -86,14 +83,14 @@ title: ""
 
 > **Chen, S.**, Helmig, R., Guo, B.``Coupled free-flow/pore-network modeling of nonequilibrium nonisothermal evaporation in soils at the land surface: Impact of water film flow and mass and heat transfer across air–water interfaces''.
 
-## *Conference paper*
+### *Conference paper*
 > **Chen, S.**, Jiang, J., Guo, B. (2021). ``Effect of Pore Geometry and Heterogeneous Surface Wettability on the Nanoconfined Phase Behavior in Nanopore Networks of Shale Rocks'' *Unconventional Resources Technology Conference 2021*, 5032. (Peer reviewed)
 		
 > **Chen, S.**, Zheng, M., Qin, H., Li, X. (2017). ``Effects of Low Impact Development Practices on the Mitigation of Nutrient Pollution in Deep Bay, China'' *Low Impact Development Conference China 2016*, 100-107. (Peer reviewed)
 	    
 > **Chen, S.**, Qin, H., Li, S. (2017). ``Modeling of Streamflow in an Underdrain System of Vegetated Dry Swales'' *Low Impact Development Conference China 2016*, 85-91. (Peer reviewed)
 
-# INVITED LECTURES
+## INVITED LECTURES
 > Guest Lecture, *Fourier Stability Analysis for Finite Differentiation Approximation*, University of Arizona, 2023
 
 > Guest Lecture, *Finite Differentiation Approximation for Solving Second-order Ordinary Differentiation Equations \& Modified Equation Analysis*, University of Arizona, 2023
@@ -102,7 +99,7 @@ title: ""
 
 > Invited Talk, *SFB1313 Pretty Porous Science Lecture*, University of Stuttgart, 2022
 
-# CONFERENCE PRESENTATIONS
+## CONFERENCE PRESENTATIONS
 > El Día del Agua y la Atmósfera, 2023 (Oral, *Best Oral Presentation Award*)
 
 > American Geophysical Union (AGU) Fall Meeting, 2023 (Oral)
@@ -147,7 +144,7 @@ title: ""
 
 > International Low Impact Development Conference China, 2016 (Poster)
 
-# TEACHING EXPERIENCE
+## TEACHING EXPERIENCE
 > Teaching Assistant, HWRS 404/504 Numerical Methods for Environmental Transport Problems, Instructor: Dr. Bo Guo, Spring semester, 2023
 
 > Teaching Assistant, HWRS 405/505 Vadose Zone Hydrology, Instructor: Dr. Bo Guo, Fall semester, 2022
@@ -156,7 +153,7 @@ title: ""
 
 > Teaching Assistant, HWRS 428/528 Systems Approach to Hydrological Modeling, Instructor: Dr. Hoshin Gupta, Fall semester, 2019
 
-# PROFESSIONAL SERVICE
+## PROFESSIONAL SERVICE
 > *Member.* American Geophysical Union Hydrology Section Student Subcommittee (AGU-H3S), 2022 -- 2023
 
 > *Member.* International Society for Porous Media (InterPore) Membership Committee, 2021 -- 2023
@@ -165,8 +162,8 @@ title: ""
 
 > *Session Chair. (with Bo Guo, Yashar Mehmani, Francisco Carrillo, Hamdi Tchelepi, Xinyi Shen, and Prakash Purswani). Pore-Scale Physics: Recent Advances in Experimental and Computational Methods, AGU Fall Meeting (virtual), December 2021
 
-# REVIEW SERVICE
-## *Journal Reviewer*
+## REVIEW SERVICE
+### *Journal Reviewer*
 > Water Resource Research
 
 > Journal of Fluid Mechanics
@@ -183,10 +180,10 @@ title: ""
 
 > ACS Omega
 
-## Grant Reviewer
+### Grant Reviewer
 > Travel and Research Grants, Graduate and Professional Student Council, University of Arizona, 2020 -- 2022
 
-# PROFESSIONAL SOCIALITY
+## PROFESSIONAL SOCIALITY
 > American Geophysical Union (AGU)
 
 > European Geosciences Union (EGU)
