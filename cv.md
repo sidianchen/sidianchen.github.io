@@ -22,17 +22,29 @@ Department of Hydrology and Atmospheric Sciences, University of Arizona
 	
 # HONORS & AWARDS
 > Montgomery Prize for Outstanding Oral Presentation, El Día del Agua y la Atmósfera, 2023
+
 > John W. Harshbarger Memorial Scholarship, University of Arizona, 2022
+
 > *Outstanding Graduate Student in Research, College of Science, University of Arizona, 2022*
+
 > Matrix New World Engineering Best Oral Award, El Día del Agua y la Atmósfera, 2022
+
 > John W. Harshbarger Memorial Scholarship, University of Arizona, 2021
+
 > Galileo Circle Scholarship, College of Science, University of Arizona, 2021
+
 > Outstanding Oral Award, EarthWeek 2021 Lightning Talk Competition, University of Arizona, 2021
+
 > Arizona Hydrological Society-Tucson Best Oral Award, El Día del Agua y la Atmósfera, 2021
+
 > *Outstanding Student Presentation Award, American Geophysical Union (AGU) Fall Meeting, 2020*
+
 > John W. Harshbarger Memorial Scholarship, University of Arizona, 2020
+
 > Geosystems Analysis, Inc. Best Virtual Poster Award, El Día del Agua y la Atmósfera, 2020
+
 > Travel Grants, Graduate and Professional Student Council, University of Arizona, 2019
+
 > Shlomo and Yael Neuman Graduate Scholarship, University of Arizona, 2019
 
 # PUBLICATIONS
@@ -88,49 +100,83 @@ Department of Hydrology and Atmospheric Sciences, University of Arizona
 
 # CONFERENCE PRESENTATIONS
 > El Día del Agua y la Atmósfera, 2023 (Oral, *Best Oral Presentation Award*)
+
 > American Geophysical Union (AGU) Fall Meeting, 2023 (Oral)
+
 > Droplet Interaction Technologies Summer School at the University of Stuttgart, Germany, 2022 (Oral)
+
 > The XXIV International Conference on Computational Methods in Water Resources, 2022 (Oral)
+
 > European Geosciences Union (EGU) General Assembly, 2022 (Oral)
+
 > International Society for Porous Media (InterPore) Annual Meeting, 2022 (Poster)
+
 > PFAS-$\Sigma$-IT International PFAS Summit, 2022 (Poster)
+
 > El Día del Agua y la Atmósfera, 2022 (Oral, *Outstanding Oral Presentation Award*)
+
 > SFB 1313 Status Seminar, 2022 (Poster)
-> American Geophysical Union (AGU) Fall Meeting, 2021 (One Oral, one Poster, and one Invited eLighting Talk) 
+
+> American Geophysical Union (AGU) Fall Meeting, 2021 (One Oral, one Poster, and one Invited eLighting Talk)
+
 > Unconventional Resources Technology Conference, 2021 (Oral)
+
 > International Society for Porous Media (InterPore) Annual Meeting, 2021 (Oral)
+
 > El Día del Agua y la Atmósfera, 2021 (Oral, *Outstanding Oral Presentation Award*)
+
 > American Geophysical Union (AGU) Fall Meeting, 2020 (Oral, *Outstanding Student Presentation Award*)
+
 > Geological Society of America (GSA) Annual Meeting, 2020 (Oral)
+
 > International Society for Porous Media (InterPore) Annual Meeting, 2020 (Oral)
+
 > Los Alamos-Arizona Days Conference, 2020 (Poster)
+
 > El Día del Agua y la Atmósfera, 2020 (Poster, *Best Virtual Poster Award*)
+
 > American Geophysical Union (AGU) Fall Meeting, 2019 (Oral)
+
 > Geological Society of America (GSA) Annual Meeting, 2019 (Oral)
+
 > El Día del Agua y la Atmósfera, 2019 (Oral)
+
 > International Low Impact Development Conference China, 2016 (Poster)
 
 # TEACHING EXPERIENCE
-> Teaching Assistant, HWRS 404/504 Numerical Methods for Environmental Transport Problems, Instructor: Dr. Bo Guo, Spring semester, 2023 
+> Teaching Assistant, HWRS 404/504 Numerical Methods for Environmental Transport Problems, Instructor: Dr. Bo Guo, Spring semester, 2023
+
 > Teaching Assistant, HWRS 405/505 Vadose Zone Hydrology, Instructor: Dr. Bo Guo, Fall semester, 2022
+
 > Teaching Assistant, HWRS 170a Earth: Our Watery Home, Instructor: Dr. Tom Meixner, Spring semester, 2020
+
 > Teaching Assistant, HWRS 428/528 Systems Approach to Hydrological Modeling, Instructor: Dr. Hoshin Gupta, Fall semester, 2019
 
 # PROFESSIONAL SERVICE
 > *Member.* American Geophysical Union Hydrology Section Student Subcommittee (AGU-H3S), 2022 -- 2023
+
 > *Member.* International Society for Porous Media (InterPore) Membership Committee, 2021 -- 2023
-> *Organizer.* El Día del Agua y la Atmósfera Planning Committee, 2021 -- 2022 
+
+> *Organizer.* El Día del Agua y la Atmósfera Planning Committee, 2021 -- 2022
+
 > *Session Chair. (with Bo Guo, Yashar Mehmani, Francisco Carrillo, Hamdi Tchelepi, Xinyi Shen, and Prakash Purswani). Pore-Scale Physics: Recent Advances in Experimental and Computational Methods, AGU Fall Meeting (virtual), December 2021
 
 # REVIEW SERVICE
 ## *Journal Reviewer*
 > Water Resource Research
+
 > Journal of Fluid Mechanics
+
 > Advance in Water Resources
+
 > Earth-Science Reviews
+
 > Lab on a Chip
+
 > Journal of Petroleum Science and Engineering
+
 > Transport in Porous Media
+
 > ACS Omega
 
 ## Grant Reviewer
@@ -138,8 +184,11 @@ Department of Hydrology and Atmospheric Sciences, University of Arizona
 
 # PROFESSIONAL SOCIALITY
 > American Geophysical Union (AGU)
-> European Geosciences Union (EGU) 
+
+> European Geosciences Union (EGU)
+
 > Geological Society of America (GSA)
+
 > International Society for Porous Media (InterPore)
 
 
