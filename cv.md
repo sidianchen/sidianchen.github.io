@@ -3,11 +3,11 @@ layout: page
 title: ""
 ---
 
-<center>
-Sidian Chen
-Department of Hydrology and Atmospheric Sciences, University of Arizona 
-(1)520-369-9240 $|$ \href{mailto:sidianchen@arizona.edu}
-<center>
+
+# Sidian Chen
+# Department of Hydrology and Atmospheric Sciences, University of Arizona 
+# Phone: (1)520-369-9240 Email: sidianchen@arizona.edu
+
 
 # EDUCATION
 - University of Arizona
