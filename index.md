@@ -10,8 +10,8 @@ I am a PostDoc researcher in the [Subsurface Flow Physics Group](https://guolab.
 
 <table style="border-collapse: collapse;">
   <tr style="border-bottom: none;">
-    <td style="border: none; background-color: transparent;"><img src="headshot.jpg" alt="Description" style="max-width: 100; height: auto;"></td>
-    <td style="border: none; background-color: transparent;">Header 2</td>
+    <td style="border: none"><img src="headshot.jpg" alt="Description" style="max-width: 100; height: auto;"></td>
+    <td style="border: none">Header 2</td>
   </tr>
 </table>
 
