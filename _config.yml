@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sidianchen@email.arizona"}
   - {title: Google, icon: google, url: "https://scholar.google.com/citations?user=G6Aqt38AAAAJ&hl=en"}
-  - {title: Subscribe, icon: rss, url: "https://www.researchgate.net/profile/Sidian-Chen"}
+  - {title: Subscribe, icon: <img src="researchgateicon.png">, url: "https://www.researchgate.net/profile/Sidian-Chen"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/sidian-chen-4477609b"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/Sidian_Chen"}
 
