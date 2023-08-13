@@ -17,6 +17,6 @@ title: "Selected Publications"
 # Before 2020
 > **Chen, S.**, Qin, H. P., Zheng, Y., & Fu, G. (2019). Spatial variations of pollutants from sewer interception system overflow. *Journal of Environmental Management*, 233, 748-756. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0301479718310922)
 
-> Zheng, Y., **Chen, S.**, Qin, H., Jiao, J. (2018). Modeling the spatial and seasonal variations of groundwater head in an urbanized area under low impact development'' *Water*, 10(6): 803. [[link]](https://www.mdpi.com/2073-4441/10/6/803)
+> Zheng, Y., **Chen, S.**, Qin, H., Jiao, J. (2018). Modeling the spatial and seasonal variations of groundwater head in an urbanized area under low impact development. *Water*, 10(6): 803. [[link]](https://www.mdpi.com/2073-4441/10/6/803)
 
 > Xu, H., Xu, C. Y., **Chen, S.**, & Chen, H. (2016). Similarity and difference of global reanalysis datasets (WFD and APHRODITE) in driving lumped and distributed hydrological models in a humid region of China. *Journal of Hydrology*, 542, 343-356. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0022169416305613)
