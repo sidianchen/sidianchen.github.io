@@ -6,6 +6,8 @@ title: ""
 ---
 ## Compositional flow and thermodynamics in nanoporous media
 > Nanometer-scale pore spaces in porous materials induce anomalous physical beahviors in terms of fluid flow, chemical compound transport, and thermodynamic phase change. These anomalous behaviors&mdash;commonly observed for oil and gas in shale formations&mdash;have posed significant challenges for accurate prediction of oil/gas production. Current theories either underrepresent the complex multiscale pore structures by using molecular dynamics or oversimplify the nanoconfined flow mechanisms by using Darcy-scale continuum models, causing inconsistent predictions with experimental and field observations. To bridge the gap, I develop a group of novel pore-network modeling frameworks to examine how complex nanopore networks control the phase change and compositional flow dynamics. The objectives are to derive new constitutive relationships for reservoir-scale models and improve quantitative predictions of hydrocarbon production from complex shale formations.
+>
+> ![NANO-GitHub](nano-github.gif)
 
 > Relevant materials: [Chen et al, WRR (2020)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020WR028510); [Chen et al, CEJ (2021)](https://www.sciencedirect.com/science/article/abs/pii/S1385894721007981); [Chen et al, URTec (2021)](https://onepetro.org/URTECONF/proceedings-abstract/21URTC/1-21URTC/465245)
 
