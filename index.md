@@ -3,6 +3,17 @@ layout: page
 title: ""
 ---
 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding: 20px;">
+    <img src="headshot.jpg" alt="Image" style="max-width: 100%;">
+  </div>
+  <div style="flex: 2; padding: 20px;">
+    <h2>Image and Text in Parallel</h2>
+    <p>This is an example of placing an image and text side by side using inline styles.</p>
+  </div>
+</div>
+
+<!-- 
 <!DOCTYPE html>
 <html>
 <head>
@@ -37,7 +48,7 @@ title: ""
 </html>
 
 
-<!-- 
+
 <div style="display: flex; align-items: center;">
 <img src="headshot.jpg" alt="Description" width="350" style="margin-right: 10px;">
 
