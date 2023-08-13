@@ -6,7 +6,7 @@ title: ""
 <h1 align="center" style="font-size: 32px;"> Sidian Chen, Ph.D. </h1>
 <h3 align="center" > Postdoctoral Researcher </h3>
 <h4 align="center" > Department of Hydrology & Atmospheric Sciences, University of Arizona, Tucson, AZ, 85721</h4>
-<h4 align="center" > Email: sidianchen@arizona.edu | Tel: (+1) 520-369-9240 | Web: https://sidianchen.github.io</h4>
+<h4 align="center" > Email: sidianchen@arizona.edu | Tel: (+1) 520-369-9240 | Web: <a href="https://sidianchen.github.io">https://sidianchen.github.io</a></h4>
 
 
 ## EDUCATION
