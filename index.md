@@ -3,15 +3,16 @@ layout: page
 title: ""
 ---
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; height: 300px;">
   <div style="flex: 1; padding: 20px;">
-    <img src="headshot.jpg" alt="Image" style="max-width: 100%;">
+    <img src="headshot.jpg" alt="Image" style="max-width: 100%; max-height: 100%;">
   </div>
   <div style="flex: 2; padding: 20px;">
     <h3>About me</h3>
     <p>I am a PostDoc researcher in the <a href="https://guolab.arizona.edu">Subsurface Flow Physics Group</a> at the University of Arizona. I am interested in the fundamental physics of fluid flow and transport in environmental and energy systems in Earth’s subsurface. My current research focuses on pore-scale modeling of multiphase fluid flow, multicomponent transport, and thermodynamic phase change behaviors in geological porous media. The specific application of my research is to study the transport of Per- and Polyfluoroalkyl Substances (PFAS) in the vadose zone, the nonisothermal evaporation processes in soils at the land surface, and the production of gas/oil from shale formations.</p>
   </div>
 </div>
+
 
 <!-- 
 <!DOCTYPE html>
