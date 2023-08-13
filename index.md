@@ -8,8 +8,8 @@ title: ""
     <img src="headshot.jpg" alt="Image" style="max-width: 100%;">
   </div>
   <div style="flex: 2; padding: 20px;">
-    <h2>Image and Text in Parallel</h2>
-    <p>This is an example of placing an image and text side by side using inline styles.</p>
+    <h3>About me</h3>
+    <p>I am a PostDoc researcher in the [Subsurface Flow Physics Group](https://guolab.arizona.edu) at the University of Arizona. I am interested in the fundamental physics of fluid flow and transport in environmental and energy systems in Earth’s subsurface. My current research focuses on pore-scale modeling of multiphase fluid flow, multicomponent transport, and thermodynamic phase change behaviors in geological porous media. The specific application of my research is to study the transport of Per- and Polyfluoroalkyl Substances (PFAS) in the vadose zone, the nonisothermal evaporation processes in soils at the land surface, and the production of gas/oil from shale formations.</p>
   </div>
 </div>
 
