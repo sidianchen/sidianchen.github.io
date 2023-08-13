@@ -8,6 +8,7 @@ title: ""
 <h4 align="center" > Department of Hydrology & Atmospheric Sciences, University of Arizona, Tucson, AZ, 85721</h4>
 <h4 align="center" > Email: <a href="mailto:sidianchen@arizona.edu">sidianchen@arizona.edu</a> | Tel: <a href="tel:+15203699240">(+1) 520-369-9240</a> | Web: <a href="https://sidianchen.github.io">https://sidianchen.github.io</a></h4>
 
+---
 
 ## EDUCATION
 - Ph.D., Hydrology (major) and Applied Math (minor), University of Arizona, 2018 - 2023
