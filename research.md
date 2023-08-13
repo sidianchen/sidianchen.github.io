@@ -7,7 +7,7 @@ title: ""
 
 > Relevant materials: Chen & Guo, WRR (accepted)
 
-## Water evaporation and heat transfer in between soils and atmosphere
+## Water evaporation and heat transfer in soils near land surface
 > Evaporation of water from soils is a key physical process governing mass and energy fluxes at the land surface. Soil evaporation is controlled by a wide range of factors including atmospheric conditions such as temperature, humidity, and air flow, as well as flow and transport processes in the soil media. The *overarching goal* of the project is to develop coupled pore-scale modeling frameworks to understand and quantify the fundamental pore-scale processes in soils that govern evaporation at the land-atmosphere interface, with a focus on the impact of thin water films.
 
 > Relevant materials: [Chen et al, AGU Fall Meeting (2022)](https://ui.adsabs.harvard.edu/abs/2022AGUFM.H53G..06C/abstract)
