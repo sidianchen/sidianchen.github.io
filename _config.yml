@@ -33,5 +33,4 @@ comments:
 
 plugins:
  - jekyll-feed
- - jekyll-mathjax
 
