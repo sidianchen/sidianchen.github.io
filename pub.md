@@ -15,6 +15,6 @@ title: "Selected Publications"
 > **Chen, S.**, Qin, C., & Guo, B. (2020). Fully implicit dynamic pore‐network modeling of two‐phase flow and phase change in porous media. Water Resources Research, 56(11), e2020WR028510. [[link]](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020WR028510)
 
 # Before 2020
-> **Chen, S.**, Qin, H. P., Zheng, Y., & Fu, G. (2019). Spatial variations of pollutants from sewer interception system overflow. Journal of environmental management, 233, 748-756. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0301479718310922)
+> **Chen, S.**, Qin, H. P., Zheng, Y., & Fu, G. (2019). Spatial variations of pollutants from sewer interception system overflow. Journal of Environmental Management, 233, 748-756. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0301479718310922)
 
-> Xu, H., Xu, C. Y., **Chen, S.**, & Chen, H. (2016). Similarity and difference of global reanalysis datasets (WFD and APHRODITE) in driving lumped and distributed hydrological models in a humid region of China. Journal of hydrology, 542, 343-356. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0022169416305613)
+> Xu, H., Xu, C. Y., **Chen, S.**, & Chen, H. (2016). Similarity and difference of global reanalysis datasets (WFD and APHRODITE) in driving lumped and distributed hydrological models in a humid region of China. Journal of Hydrology, 542, 343-356. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0022169416305613)
