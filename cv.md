@@ -3,10 +3,10 @@ layout: page
 title: ""
 ---
 
-<h1 align="center" style="font-size: 28px;"> Sidian Chen, Ph.D. </h1>
+<h1 align="center" style="font-size: 32px;"> Sidian Chen, Ph.D. </h1>
 <h4 align="center" > Postdoctoral Researcher </h4>
-<h5 align="center" > Department of Hydrology and Atmospheric Sciences, University of Arizona </h5>
-<h5 align="center" > Email: sidianchen@arizona.edu | Tel: (1)520-369-9240 | Web: https://sidianchen.github.io </h5>
+<h5 align="center" > Department of Hydrology & Atmospheric Sciences, University of Arizona, Tucson, AZ, 85721</h5>
+<h5 align="center" > Email: sidianchen@arizona.edu | Tel: (+1) 520-369-9240 | Web: https://sidianchen.github.io</h5>
 
 
 ## EDUCATION
