@@ -3,10 +3,11 @@ layout: page
 title: ""
 ---
 
-<h1 align="center" > Sidian Chen </h1>
-<h4 align="center" > Department of Hydrology and Atmospheric Sciences, University of Arizona </h4>
-<h4 align="center" > Email: sidianchen@arizona.edu </h4>
-<h4 align="center" > Phone: (1)520-369-9240 </h4>
+<h1 align="center" style="font-size: 28px;"> Sidian Chen, Ph.D. </h1>
+<h4 align="center" > Postdoctoral Researcher </h4>
+<h5 align="center" > Department of Hydrology and Atmospheric Sciences, University of Arizona </h5>
+<h5 align="center" > Email: sidianchen@arizona.edu | Tel: (1)520-369-9240 | Web: https://sidianchen.github.io </h5>
+
 
 ## EDUCATION
 - Ph.D., Hydrology (major) and Applied Math (minor), University of Arizona, 2018 - 2023
