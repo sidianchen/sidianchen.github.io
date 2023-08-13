@@ -54,10 +54,10 @@ I am broadly interested in the fundamental physics of fluid flow and transport i
 <!-- - **Chen, S.**, ... -->
 
 ### *Journal Paper (In Preparation)*
-<!-- - **Chen, S.**, Jiang, J., Guo, B. Phase change controls two-phase displacement patterns in porous media.. -->
-- **Chen, S.**, Jiang, J., Guo, B. Dynamic pore-network modeling of compositional two-phase flow and phase change behavior in nanoporous media..
-<!-- - **Chen, S.**, Guo, B. An analytical upscaled model for PFAS transport in dual-permeability porous media with arbitrary kinetic air–water and solid–water adsorption sites.. -->
-- **Chen, S.**, Helmig, R., Guo, B.Coupled free-flow/pore-network modeling of nonequilibrium nonisothermal evaporation in soils at the land surface: Impact of water film flow and mass and heat transfer across air–water interfaces..
+<!-- - **Chen, S.**, Jiang, J., Guo, B. Phase change controls two-phase displacement patterns in porous media. -->
+- **Chen, S.**, Jiang, J., Guo, B. Dynamic pore-network modeling of compositional two-phase flow and phase change behavior in nanoporous media.
+<!-- - **Chen, S.**, Guo, B. An analytical upscaled model for PFAS transport in dual-permeability porous media with arbitrary kinetic air–water and solid–water adsorption sites. -->
+- **Chen, S.**, Helmig, R., Guo, B.Coupled free-flow/pore-network modeling of nonequilibrium nonisothermal evaporation in soils at the land surface: Impact of water film flow and mass and heat transfer across air–water interfaces.
 
 ### *Conference paper*
 - **Chen, S.**, Jiang, J., Guo, B. (2021). Effect of Pore Geometry and Heterogeneous Surface Wettability on the Nanoconfined Phase Behavior in Nanopore Networks of Shale Rocks. *Unconventional Resources Technology Conference 2021*, 5032. (Peer reviewed)	
