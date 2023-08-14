@@ -18,21 +18,6 @@ title: ""
 ## RESEARCH INTEREST
 I am broadly interested in the fundamental physics of fluid flow and transport in environmental and energy systems in Earth's subsurface. My current research focuses on micro-scale (i.e., pore-scale) modeling of multiphase fluid flow, transport, and thermodynamic phase change behaviors in geological porous media. The specific application of my research is to study the transport of Per- and Polyfluoroalkyl Substances (PFAS) in the vadose zone, the nonisothermal evaporation processes at the land surface, and the production of gas/oil from shale formations.
 	
-## HONORS & AWARDS
-- Montgomery Prize for Outstanding Oral Presentation, El Día del Agua y la Atmósfera, 2023
-- John W. Harshbarger Memorial Scholarship, University of Arizona, 2022
-- *Outstanding Graduate Student in Research, College of Science, University of Arizona, 2022*
-- Matrix New World Engineering Best Oral Award, El Día del Agua y la Atmósfera, 2022
-- John W. Harshbarger Memorial Scholarship, University of Arizona, 2021
-- Galileo Circle Scholarship, College of Science, University of Arizona, 2021
-- Outstanding Oral Award, EarthWeek 2021 Lightning Talk Competition, University of Arizona, 2021
-- Arizona Hydrological Society-Tucson Best Oral Award, El Día del Agua y la Atmósfera, 2021
-- *Outstanding Student Presentation Award, American Geophysical Union (AGU) Fall Meeting, 2020*
-- John W. Harshbarger Memorial Scholarship, University of Arizona, 2020
-- Geosystems Analysis, Inc. Best Virtual Poster Award, El Día del Agua y la Atmósfera, 2020
-- Travel Grants, Graduate and Professional Student Council, University of Arizona, 2019
-- Shlomo and Yael Neuman Graduate Scholarship, University of Arizona, 2019
-
 ## PUBLICATIONS
 ### *Journal Paper (Published)*
 - **Chen, S.**, Guo, B. (2023) Pore-scale modeling of PFAS transport in water-unsaturated porous media: Air-water interfacial adsorption and mass-transfer processes in thin water films. *Water Resources Research*	
@@ -99,6 +84,21 @@ I am broadly interested in the fundamental physics of fluid flow and transport i
 - Teaching Assistant, HWRS 405/505 Vadose Zone Hydrology, Instructor: Dr. Bo Guo, Fall semester, 2022
 - Teaching Assistant, HWRS 170a Earth: Our Watery Home, Instructor: Dr. Tom Meixner, Spring semester, 2020
 - Teaching Assistant, HWRS 428/528 Systems Approach to Hydrological Modeling, Instructor: Dr. Hoshin Gupta, Fall semester, 2019
+
+## HONORS & AWARDS
+- Montgomery Prize for Outstanding Oral Presentation, El Día del Agua y la Atmósfera, 2023
+- John W. Harshbarger Memorial Scholarship, University of Arizona, 2022
+- *Outstanding Graduate Student in Research, College of Science, University of Arizona, 2022*
+- Matrix New World Engineering Best Oral Award, El Día del Agua y la Atmósfera, 2022
+- John W. Harshbarger Memorial Scholarship, University of Arizona, 2021
+- Galileo Circle Scholarship, College of Science, University of Arizona, 2021
+- Outstanding Oral Award, EarthWeek 2021 Lightning Talk Competition, University of Arizona, 2021
+- Arizona Hydrological Society-Tucson Best Oral Award, El Día del Agua y la Atmósfera, 2021
+- *Outstanding Student Presentation Award, American Geophysical Union (AGU) Fall Meeting, 2020*
+- John W. Harshbarger Memorial Scholarship, University of Arizona, 2020
+- Geosystems Analysis, Inc. Best Virtual Poster Award, El Día del Agua y la Atmósfera, 2020
+- Travel Grants, Graduate and Professional Student Council, University of Arizona, 2019
+- Shlomo and Yael Neuman Graduate Scholarship, University of Arizona, 2019
 
 ## PROFESSIONAL SERVICE
 - *Member.* American Geophysical Union Hydrology Section Student Subcommittee (AGU-H3S), 2022 - 2023
