@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Selected Publications"
+title: "Journal Papers"
 ---
 
 # 2023
