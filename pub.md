@@ -3,6 +3,10 @@ layout: page
 title: "Selected Publications"
 ---
 
+# 2023
+> **Chen, S.** & Guo, B. (2023). Pore-scale modeling of PFAS transport in water-unsaturated porous media: Air–water interfacial adsorption and mass-transfer processes in thin water films. *Water Resources Research*, e2023WR034664. [[link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR034664)
+
+
 # 2022
 > Qin, C. Z., Wang, X., Hefny, M., Zhao, J., **Chen, S.**, & Guo, B. (2022). Wetting dynamics of spontaneous imbibition in porous media: From pore scale to darcy scale. *Geophysical Research Letters*, 49(4), e2021GL097269. [[link]](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL097269)
 
