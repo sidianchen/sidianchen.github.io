@@ -17,7 +17,7 @@ title: ""
 >
 > ![PFAS-GitHub](pfas-github.gif)
 
-> Relevant materials: Chen & Guo, WRR (accepted)
+> Relevant materials: [Chen & Guo, WRR (2023)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR034664)
 
 ---
 ## Water evaporation and heat transfer in soils near land surface
