@@ -20,7 +20,8 @@ I am broadly interested in the fundamental physics of fluid flow and transport i
 	
 ## PUBLICATIONS
 ### *Journal Paper (Published)*
-- **Chen, S.**, Guo, B. (2023) Pore-scale modeling of PFAS transport in water-unsaturated porous media: Air-water interfacial adsorption and mass-transfer processes in thin water films. *Water Resources Research*	
+- **Chen, S.**, & Guo, B. (2023). Pore-scale modeling of PFAS transport in water-unsaturated porous media: Air–water interfacial adsorption and mass-transfer processes in thin water films. *Water Resources Research*, e2023WR034664.
+	
 - Qin, C., Wang, X., Hefny, M., Zhao, J., **Chen, S.**, Guo, B. (2022) Wetting dynamics of spontaneous imbibition in porous media: from pore scale to Darcy scale. *Geophysical Research Letters*. e2021GL097269.	
 - **Chen, S.**, Jiang, J., Guo, B. (2021) A pore-network-based upscaling framework for the nanoconfined phase behavior in shale rocks. *Chemical Engineering Journal*. 129210.		
 - **Chen, S.**, Qin, C., Guo, B. (2020) “Fully implicit dynamic pore‐network modeling of two‐phase flow and phase change in porous media. *Water Resources Research*. 56(11): e2020WR028510.	
