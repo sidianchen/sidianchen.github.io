@@ -4,7 +4,7 @@ title: "Selected Publications"
 ---
 
 # 2023
-> **Chen, S.** & Guo, B. (2023). Pore-scale modeling of PFAS transport in water-unsaturated porous media: Air–water interfacial adsorption and mass-transfer processes in thin water films. *Water Resources Research*, e2023WR034664. [[link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR034664)
+> **Chen, S.** & Guo, B. (2023). Pore-scale modeling of PFAS transport in water-unsaturated porous media Air–water interfacial adsorption and mass-transfer processes in thin water films. *Water Resources Research*, e2023WR034664. [[link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR034664)
 
 
 # 2022
