@@ -21,14 +21,13 @@ I am broadly interested in the fundamental physics of fluid flow and transport i
 ## PUBLICATIONS
 ### *Journal Paper (Published)*
 - **Chen, S.**, & Guo, B. (2023). Pore-scale modeling of PFAS transport in water-unsaturated porous media: Air–water interfacial adsorption and mass-transfer processes in thin water films. *Water Resources Research*, e2023WR034664.
-	
 - Qin, C., Wang, X., Hefny, M., Zhao, J., **Chen, S.**, Guo, B. (2022) Wetting dynamics of spontaneous imbibition in porous media: from pore scale to Darcy scale. *Geophysical Research Letters*. e2021GL097269.	
 - **Chen, S.**, Jiang, J., Guo, B. (2021) A pore-network-based upscaling framework for the nanoconfined phase behavior in shale rocks. *Chemical Engineering Journal*. 129210.		
 - **Chen, S.**, Qin, C., Guo, B. (2020) “Fully implicit dynamic pore‐network modeling of two‐phase flow and phase change in porous media. *Water Resources Research*. 56(11): e2020WR028510.	
 - **Chen, S.**, Qin, H., Zheng, Y., Fu, G. (2019). Modeling the overflow from sewage interception systems in a rapidly urbanizing catchment” *Journal of Environmental Management*. 233: 748-756.	
 - Zheng, Y., **Chen, S.**, Qin, H., Jiao, J. (2018). Modeling the spatial and seasonal variations of groundwater head in an urbanized area under low impact development. *Water*, 10(6): 803.	
 - Xu, H., Xu, C. Y., **Chen, S.**, Chen, H. (2016). Similarity and difference of global reanalysis datasets (WFD and APHRODITE) in driving lumped and distributed hydrological models in a humid region of China. *Journal of Hydrology*, 542: 343-356.	
-- Song, F., Qin, H., **Chen, S.**, Zhao, Z. (2019). Water source apportionment of pollutions in Shenzhen Bay
+- Song, F., Qin, H., **Chen, S.**, Zhao, Z. (2019). Water source apportionment of pollution in Shenzhen Bay
 			basin. *Acta Scientiarum Naturalium Universitatis Pekinensis*, 55(2): 317-328. (Written in Chinese)	
 - Zheng, M., **Chen, S.**, Qin, H., Leng, K., Zhang, L. (2017). Simulation study on the effect of urban
 			rainfall runoff pollution on eutrophication in Deep Bay, Shenzhen, China. *China Water & Wastewater*, 9:
