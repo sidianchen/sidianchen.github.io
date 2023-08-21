@@ -82,6 +82,7 @@ I am broadly interested in the fundamental physics of fluid flow and transport i
 - International Low Impact Development Conference China, 2016 (Poster)
 
 ## TEACHING EXPERIENCE
+- Co-Instructor, HWRS 405/505 Vadose Zone Hydrology, Instructor: Dr. Bo Guo, Fall semester, 2023
 - Teaching Assistant, HWRS 404/504 Numerical Methods for Environmental Transport Problems, Instructor: Dr. Bo Guo, Spring semester, 2023
 - Teaching Assistant, HWRS 405/505 Vadose Zone Hydrology, Instructor: Dr. Bo Guo, Fall semester, 2022
 - Teaching Assistant, HWRS 170a Earth: Our Watery Home, Instructor: Dr. Tom Meixner, Spring semester, 2020
@@ -110,14 +111,14 @@ I am broadly interested in the fundamental physics of fluid flow and transport i
 
 ## REVIEW SERVICE
 ### *Journal Reviewer*
-- Water Resource Research
-- Journal of Fluid Mechanics
+- ACS Omega
 - Advance in Water Resources
 - Earth-Science Reviews
-- Lab on a Chip
+- Journal of Fluid Mechanics
 - Journal of Petroleum Science and Engineering
+- Lab on a Chip
 - Transport in Porous Media
-- ACS Omega
+- Water Resource Research
 
 ### Grant Reviewer
 - Travel and Research Grants, Graduate and Professional Student Council, University of Arizona, 2020 - 2022
