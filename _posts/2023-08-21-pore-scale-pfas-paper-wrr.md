@@ -1,5 +1,5 @@
 ---
-title: "New paper about pore-scale PFAS transport modeling published in Water Resource Research Journal!"
+title: "New paper about pore-scale PFAS transport modeling!"
 layout: post
 ---
 
