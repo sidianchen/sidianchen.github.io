@@ -11,7 +11,7 @@ title: "Journal Papers"
 > Qin, C. Z., Wang, X., Hefny, M., Zhao, J., **Chen, S.**, & Guo, B. (2022). Wetting dynamics of spontaneous imbibition in porous media: From pore scale to darcy scale. *Geophysical Research Letters*, 49(4), e2021GL097269. [[link]](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL097269)
 
 # 2021
-> **Chen, S.**, Jiang, J., & Guo, B. (2021). Effect of Pore Geometry and Heterogeneous Surface Wettability on the Nanoconfined Phase Behavior in Nanopore Networks of Shale Rocks. *In SPE/AAPG/SEG Unconventional Resources Technology Conference* (p. D011S010R004). URTEC. [[link]](https://onepetro.org/URTECONF/proceedings-abstract/21URTC/1-21URTC/465245)
+> **Chen, S.**, Jiang, J., & Guo, B. (2021). Effect of pore geometry and heterogeneous surface Wettability on the nanoconfined phase behavior in nanopore networks of shale rocks. *In SPE/AAPG/SEG Unconventional Resources Technology Conference* (p. D011S010R004). URTEC. [[link]](https://onepetro.org/URTECONF/proceedings-abstract/21URTC/1-21URTC/465245)
 
 > **Chen, S.**, Jiang, J., & Guo, B. (2021). A pore-network-based upscaling framework for the nanoconfined phase behavior in shale rocks. *Chemical Engineering Journal*, 417, 129210. [[link]](https://www.sciencedirect.com/science/article/pii/S1385894721007981)
 
