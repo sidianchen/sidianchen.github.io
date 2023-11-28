@@ -103,14 +103,14 @@ I am broadly interested in the fundamental physics of fluid flow and transport i
 - *Committee Member.* American Geophysical Union (AGU) Groundwater Technical Committee, 2023 - present.
 - *Committee Member.* The XXV International Conference on Computational Methods in Water Resources (CMWR) Scientific Committee, 2023 -- 2024.
 - *Committee Member.* The XXV International Conference on Computational Methods in Water Resources (CMWR) Local Management Committee, 2023 -- 2024.
-- *Minisymposium Organizer.* (with Ran Holtzman, Oshri Borgman, Zuhao Kou, Hannah Menke, Ziqing Pan, Subhadeep Roy, Rui Wu, and Zhibing Yang). MS06B Interfacial Phenomena Across Scales, International Society for Porous Media (InterPore) Conference, 2023 -- 2024.
-- *Minisymposium Organizer.* (with Lin Ma, Martin Blunt, Qinhong Hu, Maja Rücker, and Liwei Zhang). MS10 Advances in Imaging Porous Media: Techniques, Software and Case Studies, International Society for Porous Media (InterPore) Conference, 2023 -- 2024.
+- *Minisymposium Organizer.* (with Ran Holtzman, Oshri Borgman, Zuhao Kou, Hannah Menke, Ziqing Pan, Subhadeep Roy, Rui Wu, and Zhibing Yang). MS06B Interfacial Phenomena Across Scales, International Society for Porous Media (InterPore) Conference, 2023 - 2024.
+- *Minisymposium Organizer.* (with Lin Ma, Martin Blunt, Qinhong Hu, Maja Rücker, and Liwei Zhang). MS10 Advances in Imaging Porous Media: Techniques, Software and Case Studies, International Society for Porous Media (InterPore) Conference, 2023 - 2024.
 - *Session Chair.* (with Bo Guo, Yashar Mehmani, Robin Zhao). Pore-Scale Physics: Recent Advances in Experimental and Computational Methods, American Geophysical Union (AGU) Fall Meeting (virtual), December 2023.     
-- *Committee Member.* American Geophysical Union Hydrology Section Student Subcommittee (AGU-H3S), 2022 -- 2023.		 
-- *Committee Member.* International Society for Porous Media (InterPore) Membership Committee, 2021 -- present.	
-- *Committee Member.* El Día del Agua y la Atmósfera Planning Committee, 2021 -- 2022.	 
+- *Committee Member.* American Geophysical Union Hydrology Section Student Subcommittee (AGU-H3S), 2022 - 2023.		 
+- *Committee Member.* International Society for Porous Media (InterPore) Membership Committee, 2021 - present.	
+- *Committee Member.* El Día del Agua y la Atmósfera Planning Committee, 2021 - 2022.	 
 - *Session Chair.* (with Bo Guo, Yashar Mehmani, Francisco Carrillo, Hamdi Tchelepi, Xinyi Shen, and Prakash Purswani). Pore-Scale Physics: Recent Advances in Experimental and Computational Methods, American Geophysical Union (AGU) Fall Meeting (virtual), December 2021.
-- 
+
 ## REVIEW SERVICE
 ### *Journal Reviewer*
 - ACS Omega
