@@ -101,8 +101,8 @@ I am broadly interested in the fundamental physics of fluid flow and transport i
 ## PROFESSIONAL SERVICE
 
 - *Committee Member.* American Geophysical Union (AGU) Groundwater Technical Committee, 2023 - present.
-- *Committee Member.* The XXV International Conference on Computational Methods in Water Resources (CMWR) Scientific Committee, 2023 -- 2024.
-- *Committee Member.* The XXV International Conference on Computational Methods in Water Resources (CMWR) Local Management Committee, 2023 -- 2024.
+- *Committee Member.* The XXV International Conference on Computational Methods in Water Resources (CMWR) Scientific Committee, 2023 - 2024.
+- *Committee Member.* The XXV International Conference on Computational Methods in Water Resources (CMWR) Local Management Committee, 2023 - 2024.
 - *Minisymposium Organizer.* (with Ran Holtzman, Oshri Borgman, Zuhao Kou, Hannah Menke, Ziqing Pan, Subhadeep Roy, Rui Wu, and Zhibing Yang). MS06B Interfacial Phenomena Across Scales, International Society for Porous Media (InterPore) Conference, 2023 - 2024.
 - *Minisymposium Organizer.* (with Lin Ma, Martin Blunt, Qinhong Hu, Maja Rücker, and Liwei Zhang). MS10 Advances in Imaging Porous Media: Techniques, Software and Case Studies, International Society for Porous Media (InterPore) Conference, 2023 - 2024.
 - *Session Chair.* (with Bo Guo, Yashar Mehmani, Robin Zhao). Pore-Scale Physics: Recent Advances in Experimental and Computational Methods, American Geophysical Union (AGU) Fall Meeting (virtual), December 2023.     
