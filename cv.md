@@ -11,9 +11,9 @@ title: ""
 ---
 
 ## EDUCATION
-- Ph.D., Hydrology (major) and Applied Math (minor), University of Arizona, 2018 - 2023
-- M.S., Environmental Science, Peking University, 2015 - 2018
-- B.Eng., Hydraulic and Hydropower Engineering, Tsinghua University, 2011 - 2015
+- Ph.D., Hydrology (major) and Applied Math (minor), University of Arizona, 08/2018 - 08/2023
+- M.S., Environmental Science, Peking University, 09/2015 - 07/2018
+- B.Eng., Hydraulic and Hydropower Engineering, Tsinghua University, 08/2011 - 07/2015
 
 ## P}ROFESSIONAL POSITIONS
 - Postdoctoral Scholar, Advisor: Hamdi Tchelepi, Energy Science \& Engineering, Stanford University, 01/2024 - 01/2025
