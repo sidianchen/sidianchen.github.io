@@ -13,7 +13,12 @@ title: ""
 ## EDUCATION
 - Ph.D., Hydrology (major) and Applied Math (minor), University of Arizona, 2018 - 2023
 - M.S., Environmental Science, Peking University, 2015 - 2018
-- B.S., Hydraulic and Hydropower Engineering, Tsinghua University, 2011 - 2015
+- B.Eng., Hydraulic and Hydropower Engineering, Tsinghua University, 2011 - 2015
+
+## P}ROFESSIONAL POSITIONS
+- Postdoctoral Scholar, Advisor: Hamdi Tchelepi, Energy Science \& Engineering, Stanford University, 01/2024 - 01/2025
+- Postdoctoral Scholar, Advisor: Bo Guo, Hydrology \& Atmospheric Sciecnes, University of Arizona, 08/2023 - 12/2023
+- Visiting Scholar, Host: Rainer Helmig, Hydromechanics and Modelling of Hydrosystems, University of Stuttgart, 01/2022 - 06/2022
 
 ## RESEARCH INTEREST
 I am broadly interested in the fundamental physics of fluid flow and transport in environmental and energy systems in Earth's subsurface. My current research focuses on micro-scale (i.e., pore-scale) modeling of multiphase fluid flow, transport, and thermodynamic phase change behaviors in geological porous media. The specific application of my research is to study the transport of Per- and Polyfluoroalkyl Substances (PFAS) in the vadose zone, the nonisothermal evaporation processes at the land surface, and the production of gas/oil from shale formations.
