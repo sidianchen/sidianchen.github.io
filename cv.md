@@ -15,7 +15,7 @@ title: ""
 - M.S., Environmental Science, Peking University, 09/2015 - 07/2018
 - B.Eng., Hydraulic and Hydropower Engineering, Tsinghua University, 08/2011 - 07/2015
 
-## P}ROFESSIONAL POSITIONS
+## PROFESSIONAL POSITIONS
 - Postdoctoral Scholar, Advisor: Hamdi Tchelepi, Energy Science \& Engineering, Stanford University, 01/2024 - 01/2025
 - Postdoctoral Scholar, Advisor: Bo Guo, Hydrology \& Atmospheric Sciecnes, University of Arizona, 08/2023 - 12/2023
 - Visiting Scholar, Host: Rainer Helmig, Hydromechanics and Modelling of Hydrosystems, University of Stuttgart, 01/2022 - 06/2022
