@@ -5,7 +5,7 @@ title: ""
 
 <h1 align="center" style="font-size: 32px;"> Sidian Chen, Ph.D. </h1>
 <h3 align="center" > Postdoctoral Researcher </h3>
-<h4 align="center" > Department of Energy Science & Engineering, Stanford University,Stanford, CA 94305</h4>
+<h4 align="center" > Department of Energy Science & Engineering, Stanford University, Stanford, CA 94305</h4>
 <h4 align="center" > Email: <a href="mailto:sidianc@stanford.edu">sidianc@stanford.edu</a> | Tel: <a href="tel:+15203699240">(+1) 520-369-9240</a> | Web: <a href="https://sidianchen.github.io">https://sidianchen.github.io</a></h4>
 
 ---
