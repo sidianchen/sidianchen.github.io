@@ -97,7 +97,7 @@ I am broadly interested in the fundamental physics of fluid flow and transport i
 - Galileo Circle Scholarship, College of Science, University of Arizona, 2021
 - Outstanding Oral Award, EarthWeek 2021 Lightning Talk Competition, University of Arizona, 2021
 - Arizona Hydrological Society-Tucson Best Oral Award, El Día del Agua y la Atmósfera, 2021
-- *Outstanding Student Presentation Award, American Geophysical Union (AGU) Fall Meeting, 2020*
+- Outstanding Student Presentation Award, American Geophysical Union (AGU) Fall Meeting, 2020
 - John W. Harshbarger Memorial Scholarship, University of Arizona, 2020
 - Geosystems Analysis, Inc. Best Virtual Poster Award, El Día del Agua y la Atmósfera, 2020
 - Travel Grants, Graduate and Professional Student Council, University of Arizona, 2019
