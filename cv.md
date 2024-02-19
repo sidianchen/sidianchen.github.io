@@ -91,7 +91,7 @@ I am broadly interested in the fundamental physics of fluid flow and transport i
 ## HONORS & AWARDS
 - Montgomery Prize for Outstanding Oral Presentation, El Día del Agua y la Atmósfera, 2023
 - John W. Harshbarger Memorial Scholarship, University of Arizona, 2022
-- *Outstanding Graduate Student in Research, College of Science, University of Arizona, 2022*
+- **Outstanding Graduate Student in Research (Highest honor in graduate research), College of Science, University of Arizona, 2022**
 - Matrix New World Engineering Best Oral Award, El Día del Agua y la Atmósfera, 2022
 - John W. Harshbarger Memorial Scholarship, University of Arizona, 2021
 - Galileo Circle Scholarship, College of Science, University of Arizona, 2021
