@@ -122,7 +122,7 @@ I am broadly interested in the fundamental physics of fluid flow and transport i
 - Advance in Water Resources
 - Earth-Science Reviews
 - Journal of Fluid Mechanics
-- Journal of Petroleum Science and Engineering
+- Geoenergy Science and Engineering (formerly known as Journal of Petroleum Science and Engineering)
 - Lab on a Chip
 - Transport in Porous Media
 - Water Resource Research
