@@ -1,5 +1,5 @@
 ---
-title: "I becomes a PostDoc researcher at Stanford University!"
+title: "New position at Stanford University!"
 layout: post
 ---
 
