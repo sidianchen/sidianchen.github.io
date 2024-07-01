@@ -125,7 +125,7 @@ I am broadly interested in the fundamental physics of fluid flow and transport i
 - Geoenergy Science and Engineering (formerly known as Journal of Petroleum Science and Engineering)
 - Lab on a Chip
 - Transport in Porous Media
-- Water Resource Research
+- Water Resources Research
 
 ### Grant Reviewer
 - Travel and Research Grants, Graduate and Professional Student Council, University of Arizona, 2020 - 2022
