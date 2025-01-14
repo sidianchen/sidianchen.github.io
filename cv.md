@@ -16,8 +16,8 @@ title: ""
 - B.Eng., Hydraulic and Hydropower Engineering, Tsinghua University, 08/2011 - 07/2015
 
 ## PROFESSIONAL POSITIONS
-- Postdoctoral Scholar, Advisor: Hamdi Tchelepi, Energy Science \& Engineering, Stanford University, 01/2024 - present
-- Postdoctoral Scholar, Advisor: Bo Guo, Hydrology \& Atmospheric Sciecnes, University of Arizona, 08/2023 - 12/2023
+- Postdoctoral Associate, Advisor: Hamdi Tchelepi, Energy Science \& Engineering, Stanford University, 01/2024 - present
+- Postdoctoral Associate, Advisor: Bo Guo, Hydrology \& Atmospheric Sciecnes, University of Arizona, 08/2023 - 12/2023
 - Visiting Scholar, Host: Rainer Helmig, Hydromechanics and Modelling of Hydrosystems, University of Stuttgart, 01/2022 - 06/2022
 
 ## RESEARCH INTEREST
