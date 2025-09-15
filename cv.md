@@ -16,8 +16,8 @@ title: ""
 - B.Eng., Hydraulic and Hydropower Engineering, Tsinghua University, 08/2011 - 07/2015
 
 ## PROFESSIONAL POSITIONS
-- Postdoctoral Associate, Advisor: Hamdi Tchelepi, Energy Science \& Engineering, Stanford University, 01/2024 - present
-- Postdoctoral Associate, Advisor: Bo Guo, Hydrology \& Atmospheric Sciecnes, University of Arizona, 08/2023 - 12/2023
+- Postdoctoral Associate, Advisor: Hamdi Tchelepi, Energy Science & Engineering, Stanford University, 01/2024 - present
+- Postdoctoral Associate, Advisor: Bo Guo, Hydrology & Atmospheric Sciecnes, University of Arizona, 08/2023 - 12/2023
 - Visiting Scholar, Host: Rainer Helmig, Hydromechanics and Modelling of Hydrosystems, University of Stuttgart, 01/2022 - 06/2022
 
 ## RESEARCH INTEREST
@@ -25,6 +25,7 @@ I am broadly interested in the fundamental physics of fluid flow and transport i
 	
 ## PUBLICATIONS
 ### *Journal Paper (Published)*
+- **Chen, S.**, & Guo, B. (2025). Semi-analytical solutions for nonequilibrium transport and transformation of PFAS and other solutes in heterogeneous vadose zones with structured porous media. Advances in Water Resources, 105099.
 - **Chen, S.**, & Guo, B. (2023). Pore-scale modeling of PFAS transport in water-unsaturated porous media: Air–water interfacial adsorption and mass-transfer processes in thin water films. *Water Resources Research*, e2023WR034664.
 - Qin, C., Wang, X., Hefny, M., Zhao, J., **Chen, S.**, Guo, B. (2022) Wetting dynamics of spontaneous imbibition in porous media: from pore scale to Darcy scale. *Geophysical Research Letters*. e2021GL097269.	
 - **Chen, S.**, Jiang, J., Guo, B. (2021) A pore-network-based upscaling framework for the nanoconfined phase behavior in shale rocks. *Chemical Engineering Journal*. 129210.		
@@ -119,7 +120,7 @@ I am broadly interested in the fundamental physics of fluid flow and transport i
 ## REVIEW SERVICE
 ### *Journal Reviewer*
 - ACS Omega
-- Advance in Water Resources
+- Advances in Water Resources
 - Earth-Science Reviews
 - Journal of Fluid Mechanics
 - Geoenergy Science and Engineering (formerly known as Journal of Petroleum Science and Engineering)
