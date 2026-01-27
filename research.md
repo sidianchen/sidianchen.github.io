@@ -9,7 +9,7 @@ title: ""
 >
 > ![PFAS-GitHub](assets/image/pfas-github.gif)
 >
-> Relevant materials: [Chen & Guo, WRR (2023)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR034664) [[PDF](assets/image/2023-WRR.pdf)]
+> Relevant materials: [Chen & Guo, WRR (2023)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR034664) [[PDF](assets/image/2023-WRR.pdf)]; [Chen & Guo, AWR (2025)](https://doi.org/10.1016/j.advwatres.2025.105099) [[PDF](assets/image/2025-AWR.pdf)]; [Chen et al., AWR (2026)](https://doi.org/10.1016/j.advwatres.2026.105222) [[PDF](assets/image/2026-AWR.pdf)]
 
 <!-- --- -->
 ## Water evaporation and heat transfer in soils near the land surface
