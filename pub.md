@@ -4,7 +4,7 @@ title: "Journal Papers"
 ---
 
 # 2026
-> **Chen, S.**, Catalina, S. K., Chueh, W., & Tchelepi, H. A. (2026). Mathematical Modeling and Experimental Investigations of the Charge–Discharge Mechanisms in Aqueous Batteries. *Journal of The Electrochemical Society*. [[link]]([https://doi.org/10.1149/1945-7111/ae5c3c])
+> **Chen, S.**, Catalina, S. K., Chueh, W., & Tchelepi, H. A. (2026). Mathematical Modeling and Experimental Investigations of the Charge–Discharge Mechanisms in Aqueous Batteries. *Journal of The Electrochemical Society*. [[link]](https://doi.org/10.1149/1945-7111/ae5c3c)
 
 > **Chen, S.**, Guo, B., & Zheng, T. (2026). Coupled two-phase flow and surfactant/PFAS transport in porous media with angular pores: From pore-scale physics to Darcy-scale modeling. *Advances in Water Resources*, 105222. [[link]](https://doi.org/10.1016/j.advwatres.2026.105222)
 
