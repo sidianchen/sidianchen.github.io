@@ -4,7 +4,9 @@ title: "Journal Papers"
 ---
 
 # 2026
-> **Chen, S.**, Guo, B., & Zheng, T. (2026).Coupled two-phase flow and surfactant/PFAS transport in porous media with angular pores: From pore-scale physics to Darcy-scale modeling. *Advances in Water Resources*, In press. [[link]](https://doi.org/10.1016/j.advwatres.2026.105222)
+> **Chen, S.**, Catalina, S. K., Chueh, W., & Tchelepi, H. A. (2026). Mathematical Modeling and Experimental Investigations of the Charge–Discharge Mechanisms in Aqueous Batteries. *Journal of The Electrochemical Society*. [[link]]([https://doi.org/10.1149/1945-7111/ae5c3c])
+
+> **Chen, S.**, Guo, B., & Zheng, T. (2026). Coupled two-phase flow and surfactant/PFAS transport in porous media with angular pores: From pore-scale physics to Darcy-scale modeling. *Advances in Water Resources*, 105222. [[link]](https://doi.org/10.1016/j.advwatres.2026.105222)
 
 # 2025
 > **Chen, S.**, & Guo, B. (2025).Semi-analytical solutions for nonequilibrium transport and transformation of PFAS and other solutes in heterogeneous vadose zones with structured porous media. *Advances in Water Resources*, 105099. [[link]](https://www.sciencedirect.com/science/article/pii/S0309170825002131)
