@@ -4,6 +4,14 @@ title: ""
 ---
 
 <!-- --- -->
+## Modeling and experimental investigations of aqueous batteries
+> Aqueous batteries offer important advantages in safety, cost, and sustainability, but their performance and longevity are often limited by parasitic reactions and sluggish ion transport. I developed pore-to-continuum models for ion transport and electrochemical reactions in water-saturated porous electrodes. Through collaborations with experimentalists in Prof. William Chueh’s group, we are combining simulations and laboratory measurements to elucidate the physical and electrochemical mechanisms that govern battery performance and degradation. The ultimate goal is to integrate modeling and experiments to guide the design of safer, cleaner, more cost-effective, and scalable aqueous battery systems that support the energy transition and climate solutions.
+>
+> ![BAT-GitHub](assets/news/2026-04-jes.gif)
+>
+> Relevant materials: [Chen et al., JES  (2026)](https://doi.org/10.1149/1945-7111/ae5c3c)[[PDF](assets/image/2026-JES.pdf)]
+
+<!-- --- -->
 ## PFAS transport in partially water-saturated soils
 > The wide spread of Per- and polyfluoroalkyl substances (PFAS)&mdash;a group of interfacially-active emerging contaminants&mdash;has been posing great health risks to subsurface drinking water resources. Quantifying PFAS transport in the subsurface has been challenging due to the accumulation of PFAS at air-water interfaces in partially water-saturated soil pore spaces, and their partitioning at different air-water interfaces including those residing between soil grains and those arising in thin water films on soil grain surfaces. To address these challenges, I develop mechanistic pore-scale models and analytical upscaling frameworks that capture the physical transport mechanisms unique to PFAS. The *ultimate goal* is to bridge the gap between pore-scale understandings and field-scale modeling concepts for better characterizing the PFAS transport behaviors and developing effective remediation strategies in the real-world subsurface environment.
 >
@@ -17,7 +25,7 @@ title: ""
 >
 > ![EVAP-GitHub](assets/image/evap-github.gif)
 >
-> Relevant materials: [Chen et al, AGU Fall Meeting (2022)](https://ui.adsabs.harvard.edu/abs/2022AGUFM.H53G..06C/abstract)
+> Relevant materials: [Chen et al., AGU Fall Meeting (2022)](https://ui.adsabs.harvard.edu/abs/2022AGUFM.H53G..06C/abstract)
 
 <!-- --- -->
 ## Compositional flow and thermodynamics in nanoporous media
