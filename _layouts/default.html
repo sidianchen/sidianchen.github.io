@@ -55,7 +55,7 @@
                 </ul>
             </div>
 
-            {% if page.image and page.layout != 'project' %}
+            {% if page.image and page.layout != 'project' and page.image_position != 'bottom' %}
                 <img src="{{ site.base }}{{ page.image }}"
                      alt="{{ page.title }}"
                      style="max-width: 400px"

@@ -5,4 +5,11 @@ layout: default
 
 <div class="post">
 {{ content }}
+
+{% if page.image and page.image_position == 'bottom' %}
+	<img src="{{ site.base }}{{ page.image }}"
+		 alt="{{ page.title }}"
+		 style="{{ page.image_style }}"
+		 class="post-bottom-image img-fluid mx-auto d-block mt-4"/>
+{% endif %}
 </div>

@@ -2,6 +2,9 @@
 {% assign title_only = include.title_only %}
 {% assign icon = item.icon | default: "newspaper-o" %}
 {% assign class = "" %}
+{% assign news_text_class = item.news_text_class | default: "col-md-9" %}
+{% assign news_image_class = item.news_image_class | default: "col-md-3" %}
+{% assign news_image_style = item.news_image_style | default: "width: 100%; max-width: 100%;" %}
 {% if item.shortnews %}
     {% assign class = "shortnews" %}
 {% endif %}
@@ -10,9 +13,51 @@
     <div>
         {% if include.news_page %}
             <h5 class="news-archive-title">{{ item.title }}</h5>
-            <div class="news-page-content">
-                {{ item.content | markdownify }}
-            </div>
+            {% if item.image_position == 'bottom' %}
+                <div class="news-page-body">
+                    <div class="row">
+                        <div class="col-12 {{ news_text_class }} news-page-content">
+                            {{ item.content | markdownify }}
+                        </div>
+                    </div>
+                    {% if item.image %}
+                        {% capture img %}
+                            <img class="img-fluid d-block mx-auto"
+                                 style="{{ news_image_style }}"
+                                 src="{{ item.image }}">
+                        {% endcapture %}
+                        <div class="row mt-3">
+                            <div class="col-12 news-page-image news-page-image-bottom">
+                                {% if item.image_link %}
+                                    <a href="{{ item.image_link }}">{{ img }}</a>
+                                {% else %}
+                                    {{ img }}
+                                {% endif %}
+                            </div>
+                        </div>
+                    {% endif %}
+                </div>
+            {% else %}
+                <div class="news-page-body row">
+                    <div class="col-12{% if item.image %} {{ news_text_class }}{% endif %} news-page-content">
+                        {{ item.content | markdownify }}
+                    </div>
+                    {% if item.image %}
+                        {% capture img %}
+                            <img class="img-fluid d-block mx-auto"
+                                 style="{{ news_image_style }}"
+                                 src="{{ item.image }}">
+                        {% endcapture %}
+                        <div class="col-12 {{ news_image_class }} news-page-image">
+                            {% if item.image_link %}
+                                <a href="{{ item.image_link }}">{{ img }}</a>
+                            {% else %}
+                                {{ img }}
+                            {% endif %}
+                        </div>
+                    {% endif %}
+                </div>
+            {% endif %}
         {% elsif title_only %}
             <h5 class="news-title"><a href="{{ site.base }}{{ item.url }}">{{ item.title }}</a></h5>
             <a class="news-more" href="{{ site.base }}{{ item.url }}">Read more &raquo;</a>
@@ -36,10 +81,13 @@
     {% if title_only %}
         {{ header }}
         {{ news }}
+    {% elsif include.news_page %}
+        {{ header }}
+        {{ news }}
     {% elsif item.image %}
         {% capture img %}
             <img class="img-fluid d-block mx-auto"
-                 style="{{ item.image_style }}"
+                 style="{{ news_image_style }}"
                  src="{{ item.image }}">
         {% endcapture %}
 

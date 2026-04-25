@@ -201,12 +201,24 @@ ul.news {
         margin-bottom: 0.35rem;
     }
 
+    .news-page-body {
+        align-items: stretch;
+    }
+
     .news-page-content img {
         display: block;
         height: auto;
-        margin: 0.75rem auto 0;
-        max-width: 50%;
-        width: 50%;
+        margin: 0.75rem 0 0;
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .news-page-image {
+        margin-top: 1rem;
+    }
+
+    .news-page-image img {
+        margin-top: 0;
     }
 
     .news-page-item {
@@ -219,6 +231,14 @@ ul.news {
 
     > li {
         margin-top: 1em;
+    }
+}
+
+@media (min-width: 768px) {
+    ul.news {
+        .news-page-image {
+            margin-top: 0;
+        }
     }
 }
 

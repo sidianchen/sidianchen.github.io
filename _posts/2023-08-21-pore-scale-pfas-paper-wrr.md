@@ -1,8 +1,12 @@
 ---
 title: "New Paper: Pore-scale PFAS transport modeling"
 layout: post
+image: /assets/news/2023-08-wrr.gif
+image_position: bottom
+news_text_class: col-md-12
+news_image_class: col-md-4
+news_image_style: "width: 50%; max-width: 50%;"
 ---
 
 Our paper&mdash;entitled "[Pore-scale modeling of PFAS transport in water-unsaturated porous media: Air--water interfacial adsorption and mass-transfer processes in thin water films](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR034664)"&mdash;is recently accepted for publication in Water Resource Research Journal. The paper presents a new pore-scale modeling framework for simulating PFAS transport in water-unsaturated porous media. Pore-scale modeling experiments highlight the importance of two unrepresented physical mechanisms including thin-water-film mass-transfer limitations and surface diffusion for PFAS transport in water-unsaturated soils. These mechanisms potentially significantly impact PFAS transport in the vadose zone and need to be incorporated for field-scale modeling concepts.
 
-![2023-08-WRR]({{ site.base }}/assets/news/2023-08-wrr.gif)
