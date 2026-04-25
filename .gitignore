@@ -5,3 +5,6 @@
 Gemfile.lock
 _site
 *.gem
+.template-*
+research-group-web-template.zip
+.local-tools

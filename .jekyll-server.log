@@ -1,0 +1,39 @@
+Configuration file: D:/sidianchen.github.io/_config.yml
+            Source: D:/sidianchen.github.io
+       Destination: D:/sidianchen.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+jekyll 3.10.0 | Error:  Permission denied @ apply2files - D:/sidianchen.github.io/_site/assets/fonts/License.txt
+D:/sidianchen.github.io/.local-tools/ruby-devkit-3.3.11/lib/ruby/3.3.0/fileutils.rb:2330:in `unlink': Permission denied @ apply2files - D:/sidianchen.github.io/_site/assets/fonts/License.txt (Errno::EACCES)
+	from D:/sidianchen.github.io/.local-tools/ruby-devkit-3.3.11/lib/ruby/3.3.0/fileutils.rb:2330:in `block in remove_file'
+	from D:/sidianchen.github.io/.local-tools/ruby-devkit-3.3.11/lib/ruby/3.3.0/fileutils.rb:2338:in `platform_support'
+	from D:/sidianchen.github.io/.local-tools/ruby-devkit-3.3.11/lib/ruby/3.3.0/fileutils.rb:2329:in `remove_file'
+	from D:/sidianchen.github.io/.local-tools/ruby-devkit-3.3.11/lib/ruby/3.3.0/fileutils.rb:1474:in `remove_file'
+	from D:/sidianchen.github.io/.local-tools/ruby-devkit-3.3.11/lib/ruby/3.3.0/fileutils.rb:1222:in `block in rm'
+	from D:/sidianchen.github.io/.local-tools/ruby-devkit-3.3.11/lib/ruby/3.3.0/fileutils.rb:1221:in `each'
+	from D:/sidianchen.github.io/.local-tools/ruby-devkit-3.3.11/lib/ruby/3.3.0/fileutils.rb:1221:in `rm'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/jekyll-3.10.0/lib/jekyll/static_file.rb:104:in `write'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/jekyll-3.10.0/lib/jekyll/site.rb:209:in `block in write'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/jekyll-3.10.0/lib/jekyll/site.rb:332:in `block (2 levels) in each_site_file'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/jekyll-3.10.0/lib/jekyll/site.rb:331:in `each'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/jekyll-3.10.0/lib/jekyll/site.rb:331:in `block in each_site_file'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/jekyll-3.10.0/lib/jekyll/site.rb:330:in `each'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/jekyll-3.10.0/lib/jekyll/site.rb:330:in `each_site_file'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/jekyll-3.10.0/lib/jekyll/site.rb:208:in `write'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/jekyll-3.10.0/lib/jekyll/site.rb:73:in `process'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/jekyll-3.10.0/lib/jekyll/command.rb:28:in `process_site'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/jekyll-3.10.0/lib/jekyll/commands/build.rb:65:in `build'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/jekyll-3.10.0/lib/jekyll/commands/build.rb:36:in `process'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in `block in start'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in `each'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in `start'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:75:in `block (2 levels) in init_with_program'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `block in execute'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `each'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `execute'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/mercenary-0.3.6/lib/mercenary/program.rb:42:in `go'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/mercenary-0.3.6/lib/mercenary.rb:19:in `program'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/gems/jekyll-3.10.0/exe/jekyll:15:in `<top (required)>'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/bin/jekyll:25:in `load'
+	from D:/sidianchen.github.io/.bundle/ruby/3.3.0/bin/jekyll:25:in `<main>'

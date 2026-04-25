@@ -1,7 +1,6 @@
-# Edit by SC
-
 source 'https://rubygems.org'
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-gem 'github-pages', group: :jekyll_plugins
 
+gem "jekyll", "3.10.0"
+gem "jekyll-feed", "0.17.0"
+gem "kramdown-parser-gfm", "~> 1.1"
 gem "webrick", "~> 1.8"

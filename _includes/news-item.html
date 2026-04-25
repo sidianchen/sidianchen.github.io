@@ -1,0 +1,63 @@
+{% assign item = include.item %}
+{% assign title_only = include.title_only %}
+{% assign icon = item.icon | default: "newspaper-o" %}
+{% assign class = "" %}
+{% if item.shortnews %}
+    {% assign class = "shortnews" %}
+{% endif %}
+
+{% capture news %}
+    <div>
+        {% if include.news_page %}
+            <h5 class="news-archive-title">{{ item.title }}</h5>
+            <div class="news-page-content">
+                {{ item.content | markdownify }}
+            </div>
+        {% elsif title_only %}
+            <h5 class="news-title"><a href="{{ site.base }}{{ item.url }}">{{ item.title }}</a></h5>
+            <a class="news-more" href="{{ site.base }}{{ item.url }}">Read more &raquo;</a>
+        {% elsif item.shortnews %}
+            {{ item.content | markdownify | remove: '<p>' | remove: '</p>' }}
+        {% else %}
+            <h5><a href="{{ site.base }}{{ item.url }}">{{ item.title }}</a></h5>
+            {{ item.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
+            <br>
+            <a href="{{ site.base }}{{ item.url }}">Read more &raquo;</a>
+        {% endif %}
+    </div>
+{% endcapture %}
+
+{% capture header %}
+<span class="fa fa-fw fa-{{ icon }}"></span>
+<span class="date">{{ item.date | date: '%b %d, %Y' }}</span>
+{% endcapture %}
+
+<li class="{{ class }}{% if include.news_page %} news-page-item{% endif %}">
+    {% if title_only %}
+        {{ header }}
+        {{ news }}
+    {% elsif item.image %}
+        {% capture img %}
+            <img class="img-fluid d-block mx-auto"
+                 style="{{ item.image_style }}"
+                 src="{{ item.image }}">
+        {% endcapture %}
+
+        <div class="row">
+            <div class="col-sm-10">
+                {{ header }}
+                {{ news }}
+            </div>
+            <div class="col-sm-2">
+                {% if item.image_link %}
+                    <a href="{{ item.image_link }}">{{ img }}</a>
+                {% else %}
+                    {{ img }}
+                {% endif %}
+            </div>
+        </div>
+    {% else %}
+        {{ header }}
+        {{ news }}
+    {% endif %}
+</li>

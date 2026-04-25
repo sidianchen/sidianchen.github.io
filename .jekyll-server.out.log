@@ -1,0 +1,73 @@
+Running `bundle install` with bundler 2.5.22
+Found no changes, using resolution from the lockfile
+Using public_suffix 7.0.5
+0:  public_suffix (7.0.5) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/public_suffix-7.0.5.gemspec
+Using addressable 2.9.0
+0:  addressable (2.9.0) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/addressable-2.9.0.gemspec
+Using bundler 2.5.22
+0:  bundler (2.5.22) from D:/sidianchen.github.io/.local-tools/ruby-devkit-3.3.11/lib/ruby/gems/3.3.0/specifications/default/bundler-2.5.22.gemspec
+Using colorator 1.1.0
+0:  colorator (1.1.0) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/colorator-1.1.0.gemspec
+Using concurrent-ruby 1.3.6
+0:  concurrent-ruby (1.3.6) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/concurrent-ruby-1.3.6.gemspec
+Using csv 3.3.5
+0:  csv (3.3.5) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/csv-3.3.5.gemspec
+Using eventmachine 1.2.7
+0:  eventmachine (1.2.7) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/eventmachine-1.2.7.gemspec
+Using http_parser.rb 0.8.1
+0:  http_parser.rb (0.8.1) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/http_parser.rb-0.8.1.gemspec
+Using em-websocket 0.5.3
+0:  em-websocket (0.5.3) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/em-websocket-0.5.3.gemspec
+Using ffi 1.17.4 (x64-mingw-ucrt)
+0:  ffi (1.17.4) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/ffi-1.17.4-x64-mingw-ucrt.gemspec
+Using forwardable-extended 2.6.0
+0:  forwardable-extended (2.6.0) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/forwardable-extended-2.6.0.gemspec
+Using i18n 1.14.8
+0:  i18n (1.14.8) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/i18n-1.14.8.gemspec
+Using rb-fsevent 0.11.2
+0:  rb-fsevent (0.11.2) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/rb-fsevent-0.11.2.gemspec
+Using rb-inotify 0.11.1
+0:  rb-inotify (0.11.1) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/rb-inotify-0.11.1.gemspec
+Using sass-listen 4.0.0
+0:  sass-listen (4.0.0) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/sass-listen-4.0.0.gemspec
+Using sass 3.7.4
+0:  sass (3.7.4) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/sass-3.7.4.gemspec
+Using jekyll-sass-converter 1.5.2
+0:  jekyll-sass-converter (1.5.2) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/jekyll-sass-converter-1.5.2.gemspec
+Using logger 1.7.0
+0:  logger (1.7.0) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/logger-1.7.0.gemspec
+Using listen 3.10.0
+0:  listen (3.10.0) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/listen-3.10.0.gemspec
+Using jekyll-watch 2.2.1
+0:  jekyll-watch (2.2.1) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/jekyll-watch-2.2.1.gemspec
+Using rexml 3.4.4
+0:  rexml (3.4.4) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/rexml-3.4.4.gemspec
+Using kramdown 2.5.2
+0:  kramdown (2.5.2) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/kramdown-2.5.2.gemspec
+Using liquid 4.0.4
+0:  liquid (4.0.4) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/liquid-4.0.4.gemspec
+Using mercenary 0.3.6
+0:  mercenary (0.3.6) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/mercenary-0.3.6.gemspec
+Using pathutil 0.16.2
+0:  pathutil (0.16.2) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/pathutil-0.16.2.gemspec
+Using rouge 3.30.0
+0:  rouge (3.30.0) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/rouge-3.30.0.gemspec
+Using safe_yaml 1.0.5
+0:  safe_yaml (1.0.5) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/safe_yaml-1.0.5.gemspec
+Using webrick 1.9.2
+0:  webrick (1.9.2) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/webrick-1.9.2.gemspec
+Using jekyll 3.10.0
+0:  jekyll (3.10.0) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/jekyll-3.10.0.gemspec
+Using jekyll-feed 0.17.0
+0:  jekyll-feed (0.17.0) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/jekyll-feed-0.17.0.gemspec
+Using kramdown-parser-gfm 1.1.0
+0:  kramdown-parser-gfm (1.1.0) from D:/sidianchen.github.io/.bundle/ruby/3.3.0/specifications/kramdown-parser-gfm-1.1.0.gemspec
+Bundle complete! 4 Gemfile dependencies, 31 gems now installed.
+Bundled gems are installed into `./.bundle`
+Configuration file: D:/sidianchen.github.io/_config.yml
+            Source: D:/sidianchen.github.io
+       Destination: D:/sidianchen.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+jekyll 3.10.0 | Error:  Permission denied @ apply2files - D:/sidianchen.github.io/_site/assets/fonts/License.txt

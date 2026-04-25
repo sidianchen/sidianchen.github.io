@@ -1,5 +1,5 @@
 ---
-title: "New position at Stanford University!"
+title: "New Position: Sidian start a postdoc position at Stanford University"
 layout: post
 ---
 

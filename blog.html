@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<ul class="news list-unstyled">
+{% for post in site.posts %}
+    {% include news-item.html item=post news_page=true %}
+{% endfor %}
+</ul>

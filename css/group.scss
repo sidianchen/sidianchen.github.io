@@ -1,0 +1,395 @@
+---
+---
+
+$gray: #999;
+$light-gray: #EEE;
+$ink: #273142;
+$blue: #315d9f;
+$green: #3b7560;
+$gold: #a46a22;
+$link: #555;
+
+body {
+    padding-top: 20px;
+    color: $ink;
+    text-align: justify;
+}
+
+a:link,
+a:visited {
+    color: $blue;
+}
+
+a:hover,
+a:focus {
+    color: darken($blue, 8%);
+}
+
+.header {
+    border-bottom: 1px solid $light-gray;
+    padding-bottom: 12px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.site-title {
+    color: $blue;
+    font-size: 1.45rem;
+    font-weight: 700;
+    letter-spacing: 0;
+    margin-bottom: 10px;
+
+    &:hover {
+        color: darken($blue, 8%);
+        text-decoration: none;
+    }
+}
+
+.nav-pills .nav-link {
+    border-radius: 4px;
+}
+
+.nav-pills .nav-link.active {
+    background-color: $blue;
+}
+
+.footer {
+    color: $gray;
+    border-top: 1px solid $light-gray;
+    text-align: center;
+    font-size: 0.8em;
+    padding-top: 14px;
+    margin-top: 28px;
+
+    a:link, a:visited {
+        color: $blue;
+    }
+}
+
+.footer-separator {
+    margin: 0 0.35rem;
+}
+
+.fa {
+    color: $gray;
+}
+
+a .fa {
+    color: inherit;
+}
+
+a > .fa {
+    display: inline;
+}
+
+.jumbotron {
+    text-align: justify;
+    padding-top: 1.5em;
+    padding-bottom: 0.5em;
+    font-size: 125%;
+}
+
+.home-intro {
+    border-bottom: 1px solid $light-gray;
+    margin-bottom: 2em;
+    padding-bottom: 1.5em;
+}
+
+.home-selfie {
+    margin-bottom: 1rem;
+}
+
+.home-selfie .headshot {
+    max-width: 210px;
+}
+
+.home-bio {
+    font-size: 0.95rem;
+    line-height: 1.55;
+}
+
+.home-intro h1 {
+    font-size: 2rem;
+    margin-bottom: 0.2em;
+}
+
+.home-intro .lead {
+    color: $link;
+    font-weight: 600;
+    font-size: 0.92rem;
+    line-height: 1.25;
+    margin-bottom: 0.1rem;
+}
+
+.home-news-heading {
+    font-size: 1.4rem;
+}
+
+.home-news-columns {
+    .news-column + .news-column {
+        margin-top: 1.5rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .home-news-columns .news-column + .news-column {
+        margin-top: 0;
+    }
+}
+
+.blue-link:link,
+.blue-link:visited {
+    color: $blue;
+}
+
+.blue-link:hover,
+.blue-link:focus {
+    color: darken($blue, 8%);
+}
+
+.headshot {
+    border-radius: 6px;
+    margin-bottom: 1rem;
+    max-height: 320px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.contact-links a {
+    margin-right: 1rem;
+    white-space: nowrap;
+}
+
+.section-kicker {
+    color: $gold;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+ul.news {
+    .date {
+        color: $ink;
+        font-weight: bold;
+        font-size: 0.95rem;
+    }
+
+    .news-title a:link,
+    .news-title a:visited {
+        color: $ink;
+    }
+
+    .news-title a:hover,
+    .news-title a:focus {
+        color: darken($ink, 8%);
+    }
+
+    .news-title {
+        font-size: 0.95rem;
+        line-height: 1.25;
+        margin-bottom: 0.15rem;
+    }
+
+    .news-more {
+        font-size: 0.95rem;
+    }
+
+    .news-archive-title {
+        color: $ink;
+        font-size: 0.95rem;
+        font-weight: bold;
+        margin-bottom: 0.35rem;
+    }
+
+    .news-page-content img {
+        display: block;
+        height: auto;
+        margin: 0.75rem auto 0;
+        max-width: 50%;
+        width: 50%;
+    }
+
+    .news-page-item {
+        border: 1px solid $light-gray;
+        border-radius: 6px;
+        margin-bottom: 1.25rem;
+        padding: 1rem 1.25rem;
+        background: #fff;
+    }
+
+    > li {
+        margin-top: 1em;
+    }
+}
+
+@media (min-width: 576px) {
+    .project-people { column-count: 2 }
+    .card-columns   { column-count: 2 }
+}
+
+@media (min-width: 768px) {
+    .role.grad      { column-count: 2 }
+    .project-people { column-count: 3 }
+    .card-columns   { column-count: 3 }
+}
+
+.project-list {
+    .project-inline {
+        border: 1px solid $light-gray;
+        border-radius: 6px;
+        margin-bottom: 2.5rem;
+        padding: 1.25rem;
+        background: #fff;
+    }
+
+    .project-inline-title {
+        font-size: 1.35rem;
+        margin-bottom: 0.25rem;
+    }
+
+    .project-inline-subtitle {
+        color: $gray;
+        font-size: 0.95rem;
+        font-weight: 600;
+        margin-bottom: 1rem;
+    }
+
+    .project-inline-body {
+        display: flex;
+        gap: 1.5rem;
+        align-items: flex-start;
+    }
+
+    .project-inline-content {
+        flex: 1 1 0;
+        min-width: 0;
+    }
+
+    .project-inline-image {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .project-inline-content img {
+        display: block;
+        height: auto;
+        margin: 0;
+        max-width: 50%;
+        width: 50%;
+    }
+
+    .project-inline-image img {
+        display: block;
+        height: auto;
+        margin-left: auto;
+        max-width: 100%;
+        width: 100%;
+    }
+
+    @media (max-width: 767.98px) {
+        .project-inline-body {
+            display: block;
+        }
+
+        .project-inline-image {
+            max-width: 100%;
+            margin-top: 1rem;
+        }
+
+        .project-inline-image img {
+            margin: 0 auto;
+            width: 100%;
+        }
+    }
+}
+
+.title img {
+    max-width: 50%;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+.profile {
+    object-fit: cover;
+}
+
+.noprofile {
+    circle {
+        fill: $light-gray;
+    }
+    text {
+        font-weight: 700;
+        fill: white;
+    }
+}
+
+.card {
+    border-radius: 6px;
+
+    .profile {
+        height: 40px;
+        width: 40px;
+        margin: 3px;
+    }
+
+    .card-footer {
+        padding: 0.5em;
+    }
+}
+
+.person {
+    margin-bottom: 10px;
+
+    .profile {
+        height: 70px;
+        width: 70px;
+    }
+
+    .bio {
+        color: $gray;
+    }
+
+    .person-name {
+        margin: 0;
+    }
+}
+
+.person-without-image {
+    margin: 0;
+
+    .bio {
+        margin-left: 1em;
+    }
+}
+
+svg {
+    vertical-align: middle;
+}
+
+.publication-list h2 {
+    border-bottom: 1px solid $light-gray;
+    font-size: 1.35rem;
+    margin-top: 1.25rem;
+    padding-bottom: 0.25rem;
+}
+
+.publication-list li {
+    margin-bottom: 0.8rem;
+}
+
+.post {
+    figure {
+        margin: 1rem 0;
+        width: 100%;
+    }
+
+    img,
+    figure img {
+        display: block;
+        height: auto;
+        max-width: 100%;
+        width: 100%;
+    }
+}

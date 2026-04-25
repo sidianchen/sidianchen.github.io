@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="project-list">
+    {% assign projects_by_date = site.projects | sort: 'last-updated', 'first' %}
+    {% assign projects_by_date = projects_by_date | reverse %}
+    {% for p in projects_by_date %}
+        <section class="project-inline">
+            {% if p.notitle != true %}
+                <h2 class="project-inline-title">{{ p.title }}</h2>
+            {% endif %}
+            {% if p.subtitle != null and p.subtitle != "" %}
+                <p class="project-inline-subtitle">{{ p.subtitle }}</p>
+            {% endif %}
+            <div class="project-inline-body">
+                <div class="project-inline-content">
+                    {{ p.content }}
+                </div>
+                {% if p.image %}
+                    {% assign projimg = p.image %}
+                    {% capture init %}{{ p.image | slice: 0,1 }}{% endcapture %}
+                    {% if init == "/" %}
+                        {% capture projimg %}{{ site.base }}{{ p.image }}{% endcapture %}
+                    {% endif %}
+                    <div class="project-inline-image">
+                        <img class="img-fluid" src="{{ projimg }}" alt="{{ p.title }}" />
+                    </div>
+                {% endif %}
+            </div>
+        </section>
+    {% endfor %}
+</div>

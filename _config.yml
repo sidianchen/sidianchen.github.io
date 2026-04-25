@@ -1,37 +1,72 @@
-title: "Dr. Sidian Chen"
 author: "Sidian Chen"
-description: "Welcome to Sidian's research webpage!"
-permalink: /:title/
+description: "Research on pore-scale flow, transport, and porous media physics for environmental and energy systems."
+url: "https://sidianchen.github.io"
+base: ""
 lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
 
-# Layout
-show_social: true  # show site description and social links in the footer
-show_excerpts: false        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+highlighter: rouge
+permalink: /news/:year/:month/:day/:title.html
 
-# Menu
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "cv.md", title: "CV"}
-  - {file: "research.md", title: "Research"}
-  - {file: "pub.md", title: "Publications"}
-  - {file: "news.md", title: "News"} 
+exclude:
+  - README.md
+  - Makefile
+  - Gemfile
+  - LICENSE
+  - UNLICENSE.txt
+  - serve.ps1
+  - screenshot.png
+  - .bundle
+  - .jekyll-cache
+  - .local-tools
+  - .sass-cache
+  - research-group-web-template.zip
+  - .template-source
+  - .template-research-group-web
+  - Gemfile.lock
+  - vendor
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:sidianchen@email.arizona"}
-  - {title: Google, icon: google, url: "https://scholar.google.com/citations?user=G6Aqt38AAAAJ&hl=en"}
-  - {title: ResearchGate, icon: registered, url: "https://www.researchgate.net/profile/Sidian-Chen"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/sidian-chen-4477609b"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/Sidian_Chen"}
+sass:
+  cache: false
 
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name.html
+
+roles:
+  - key: researcher
+    name: Researcher
+
+front_page_news: 6
+
+navigation:
+  - title: Home
+    link: /
+  - title: Research
+    link: /research.html
+  - title: Publications
+    link: /publications.html
+  - title: News
+    link: /blog.html
+  - title: Code
+    link: /code.html
+
+social:
+  - title: Email
+    icon: envelope
+    url: "mailto:sidianchen@email.arizona"
+  - title: Google Scholar
+    icon: google
+    url: "https://scholar.google.com/citations?user=G6Aqt38AAAAJ&hl=en"
+  - title: ResearchGate
+    icon: registered
+    url: "https://www.researchgate.net/profile/Sidian-Chen"
+  - title: LinkedIn
+    icon: linkedin
+    url: "https://www.linkedin.com/in/sidian-chen-4477609b"
+  - title: Twitter
+    icon: twitter
+    url: "https://twitter.com/Sidian_Chen"
 
 plugins:
- - jekyll-feed
- - jekyll-avatar
-
+  - jekyll-feed
