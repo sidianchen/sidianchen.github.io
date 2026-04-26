@@ -1,5 +1,5 @@
 ---
-title: "New Paper: Coupled two-phase flow and PFAS surfactant/transport in porous media"
+title: "New Paper: Coupled two-phase flow and PFAS/surfactant transport in porous media"
 layout: post
 image: /assets/news/2026-01-awr.png
 news_text_class: col-md-9
