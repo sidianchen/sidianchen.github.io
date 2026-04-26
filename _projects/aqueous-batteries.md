@@ -13,4 +13,4 @@ This project investigates charge-discharge mechanisms in aqueous batteries using
 The work provides a mechanistic tool for studying diverse aqueous battery chemistries and supports the design of low-cost, high-utilization batteries for grid-scale energy storage.
 
 Relevant material:
-[Chen et al., JES (2026)](https://doi.org/10.1149/1945-7111/ae5c3c).
+[Chen et al., JES (2026)](https://doi.org/10.1149/1945-7111/ae5c3c) [[PDF](/assets/image/2026-JES.pdf)].

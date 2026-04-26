@@ -2,6 +2,7 @@
 {% assign title_only = include.title_only %}
 {% assign icon = item.icon | default: "newspaper-o" %}
 {% assign class = "" %}
+{% assign news_anchor = item.url | replace:'/news/','' | replace:'/','-' | replace:'.html','' %}
 {% assign news_text_class = item.news_text_class | default: "col-md-9" %}
 {% assign news_image_class = item.news_image_class | default: "col-md-3" %}
 {% assign news_image_style = item.news_image_style | default: "width: 100%; max-width: 100%;" %}
@@ -59,8 +60,8 @@
                 </div>
             {% endif %}
         {% elsif title_only %}
-            <h5 class="news-title"><a href="{{ site.base }}{{ item.url }}">{{ item.title }}</a></h5>
-            <a class="news-more" href="{{ site.base }}{{ item.url }}">Read more &raquo;</a>
+            <h5 class="news-title"><a href="{{ '/blog.html' | relative_url }}#{{ news_anchor }}">{{ item.title }}</a></h5>
+            <a class="news-more" href="{{ '/blog.html' | relative_url }}#{{ news_anchor }}">Read more &raquo;</a>
         {% elsif item.shortnews %}
             {{ item.content | markdownify | remove: '<p>' | remove: '</p>' }}
         {% else %}
@@ -77,7 +78,7 @@
 <span class="date">{{ item.date | date: '%b %d, %Y' }}</span>
 {% endcapture %}
 
-<li class="{{ class }}{% if include.news_page %} news-page-item{% endif %}">
+<li class="{{ class }}{% if include.news_page %} news-page-item{% endif %}"{% if include.news_page %} id="{{ news_anchor }}"{% endif %}>
     {% if title_only %}
         {{ header }}
         {{ news }}
