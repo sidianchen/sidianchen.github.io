@@ -1,5 +1,5 @@
 ---
-title: "New Paper (Coauthor): Nanoporous carbon coating boosts Li-ion battery capacity"
+title: "New Paper (Coauthor): Nanoporous carbon coating boosts Li-ion battery rate capability"
 layout: post
 #image: /assets/news/2026-07-am.gif
 news_text_class: col-md-7
