@@ -38,6 +38,7 @@ jobs:
     needs: build
     environment:
       name: github-pages
+      url: ${{ steps.deploy_primary.outputs.page_url || steps.deploy_retry.outputs.page_url }}
     steps:
       - name: Deploy to GitHub Pages
         id: deploy_primary
